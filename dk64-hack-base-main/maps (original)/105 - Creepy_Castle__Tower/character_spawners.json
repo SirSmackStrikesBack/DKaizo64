@@ -1,0 +1,159 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 401,
+                    "y_pos": 0,
+                    "z_pos": 394
+                },
+                {
+                    "x_pos": 543,
+                    "y_pos": 225,
+                    "z_pos": 161
+                },
+                {
+                    "x_pos": 260,
+                    "y_pos": 225,
+                    "z_pos": 155
+                },
+                {
+                    "x_pos": 123,
+                    "y_pos": 225,
+                    "z_pos": 400
+                },
+                {
+                    "x_pos": 259,
+                    "y_pos": 225,
+                    "z_pos": 633
+                },
+                {
+                    "x_pos": 541,
+                    "y_pos": 225,
+                    "z_pos": 633
+                },
+                {
+                    "x_pos": 680,
+                    "y_pos": 225,
+                    "z_pos": 397
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 398,
+                    "y_pos": 198,
+                    "z_pos": 398,
+                    "unk6": "00 52 30 FF"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 101,
+            "enemy_val_name": "Kritter-in-a-Sheet",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 242,
+            "y_pos": 225,
+            "z_pos": 348,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 59,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 101,
+            "enemy_val_name": "Kritter-in-a-Sheet",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 435,
+            "y_pos": 225,
+            "z_pos": 256,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 60,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 101,
+            "enemy_val_name": "Kritter-in-a-Sheet",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 607,
+            "y_pos": 225,
+            "z_pos": 371,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 60,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 87,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 101,
+            "enemy_val_name": "Kritter-in-a-Sheet",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 307,
+            "y_pos": 225,
+            "z_pos": 261,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 60,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 78,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 0,
+            "unk15": 124
+        },
+        {
+            "enemy_val": 101,
+            "enemy_val_name": "Kritter-in-a-Sheet",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 262,
+            "y_pos": 225,
+            "z_pos": 508,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 60,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 60,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

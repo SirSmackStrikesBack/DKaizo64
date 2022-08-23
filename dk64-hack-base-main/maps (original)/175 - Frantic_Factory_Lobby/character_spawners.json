@@ -1,0 +1,149 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 457,
+                    "y_pos": 0,
+                    "z_pos": 416
+                },
+                {
+                    "x_pos": 576,
+                    "y_pos": 0,
+                    "z_pos": 487
+                },
+                {
+                    "x_pos": 334,
+                    "y_pos": 0,
+                    "z_pos": 507
+                },
+                {
+                    "x_pos": 335,
+                    "y_pos": 0,
+                    "z_pos": 334
+                },
+                {
+                    "x_pos": 581,
+                    "y_pos": 0,
+                    "z_pos": 325
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 425,
+                    "y_pos": 0,
+                    "z_pos": 254
+                },
+                {
+                    "x_pos": 221,
+                    "y_pos": 20,
+                    "z_pos": 135
+                },
+                {
+                    "x_pos": 245,
+                    "y_pos": 0,
+                    "z_pos": 225
+                },
+                {
+                    "x_pos": 252,
+                    "y_pos": 0,
+                    "z_pos": 374
+                },
+                {
+                    "x_pos": 629,
+                    "y_pos": 0,
+                    "z_pos": 373
+                },
+                {
+                    "x_pos": 625,
+                    "y_pos": 0,
+                    "z_pos": 165
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 254,
+                    "y_pos": -3,
+                    "z_pos": 152,
+                    "unk6": "01 5D 15 00"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 83,
+            "enemy_val_name": "Robo-Zinger",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 368,
+            "y_pos": 80,
+            "z_pos": 443,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 70,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 68,
+            "enemy_val_name": "Banana Fairy",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 245,
+            "y_pos": 81,
+            "z_pos": 150,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 64,
+            "enemy_val_name": "Kasplat (Tiny)",
+            "unk1": 124,
+            "y_rot": 684,
+            "x_pos": 244,
+            "y_pos": 20,
+            "z_pos": 155,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

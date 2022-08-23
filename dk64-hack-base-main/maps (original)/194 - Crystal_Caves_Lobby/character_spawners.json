@@ -1,0 +1,89 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1626,
+                    "y_pos": 13,
+                    "z_pos": 583
+                },
+                {
+                    "x_pos": 1791,
+                    "y_pos": 13,
+                    "z_pos": 500
+                },
+                {
+                    "x_pos": 1807,
+                    "y_pos": 13,
+                    "z_pos": 637
+                },
+                {
+                    "x_pos": 1702,
+                    "y_pos": 13,
+                    "z_pos": 736
+                },
+                {
+                    "x_pos": 1568,
+                    "y_pos": 13,
+                    "z_pos": 734
+                },
+                {
+                    "x_pos": 1446,
+                    "y_pos": 13,
+                    "z_pos": 632
+                },
+                {
+                    "x_pos": 1471,
+                    "y_pos": 13,
+                    "z_pos": 507
+                },
+                {
+                    "x_pos": 1574,
+                    "y_pos": 13,
+                    "z_pos": 430
+                },
+                {
+                    "x_pos": 1683,
+                    "y_pos": 13,
+                    "z_pos": 431
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 1626,
+                    "y_pos": 13,
+                    "z_pos": 617,
+                    "unk6": "00 18 14 00"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 63,
+            "enemy_val_name": "Kasplat (Lanky)",
+            "unk1": 0,
+            "y_rot": 1597,
+            "x_pos": 1674,
+            "y_pos": 13,
+            "z_pos": 685,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

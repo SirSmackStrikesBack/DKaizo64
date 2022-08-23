@@ -1,0 +1,201 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 273,
+                    "y_pos": 0,
+                    "z_pos": 302
+                },
+                {
+                    "x_pos": 452,
+                    "y_pos": 0,
+                    "z_pos": 228
+                },
+                {
+                    "x_pos": 466,
+                    "y_pos": 0,
+                    "z_pos": 325
+                },
+                {
+                    "x_pos": 429,
+                    "y_pos": 0,
+                    "z_pos": 425
+                },
+                {
+                    "x_pos": 351,
+                    "y_pos": 0,
+                    "z_pos": 480
+                },
+                {
+                    "x_pos": 242,
+                    "y_pos": 0,
+                    "z_pos": 498
+                },
+                {
+                    "x_pos": 154,
+                    "y_pos": 0,
+                    "z_pos": 457
+                },
+                {
+                    "x_pos": 86,
+                    "y_pos": 0,
+                    "z_pos": 378
+                },
+                {
+                    "x_pos": 81,
+                    "y_pos": 0,
+                    "z_pos": 277
+                },
+                {
+                    "x_pos": 141,
+                    "y_pos": 0,
+                    "z_pos": 161
+                },
+                {
+                    "x_pos": 194,
+                    "y_pos": 0,
+                    "z_pos": 118
+                },
+                {
+                    "x_pos": 298,
+                    "y_pos": 0,
+                    "z_pos": 107
+                },
+                {
+                    "x_pos": 389,
+                    "y_pos": 0,
+                    "z_pos": 141
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 90,
+            "enemy_val_name": "Rabbit",
+            "unk1": 0,
+            "y_rot": 2047,
+            "x_pos": 276,
+            "y_pos": 0,
+            "z_pos": 300,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 80,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 92,
+            "enemy_val_name": "Fireball (With Glasses)",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 288,
+            "y_pos": 0,
+            "z_pos": 462,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 40,
+            "max_aggro_speed": 70,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 29,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 6,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 92,
+            "enemy_val_name": "Fireball (With Glasses)",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 414,
+            "y_pos": 0,
+            "z_pos": 368,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 37,
+            "max_aggro_speed": 75,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 29,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 2,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 92,
+            "enemy_val_name": "Fireball (With Glasses)",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 387,
+            "y_pos": 0,
+            "z_pos": 230,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 29,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 4,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 92,
+            "enemy_val_name": "Fireball (With Glasses)",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 175,
+            "y_pos": 0,
+            "z_pos": 214,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 41,
+            "max_aggro_speed": 70,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 29,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 2,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 92,
+            "enemy_val_name": "Fireball (With Glasses)",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 122,
+            "y_pos": 0,
+            "z_pos": 364,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 49,
+            "max_aggro_speed": 74,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 29,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 6,
+            "initial_respawn_timer": 10,
+            "unk15": 0
+        }
+    ]
+}

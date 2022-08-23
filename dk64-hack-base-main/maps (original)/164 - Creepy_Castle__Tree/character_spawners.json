@@ -1,0 +1,201 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 976,
+                    "y_pos": 400,
+                    "z_pos": 882
+                },
+                {
+                    "x_pos": 1009,
+                    "y_pos": 400,
+                    "z_pos": 735
+                },
+                {
+                    "x_pos": 1096,
+                    "y_pos": 400,
+                    "z_pos": 904
+                },
+                {
+                    "x_pos": 1008,
+                    "y_pos": 400,
+                    "z_pos": 1005
+                },
+                {
+                    "x_pos": 901,
+                    "y_pos": 400,
+                    "z_pos": 1029
+                },
+                {
+                    "x_pos": 856,
+                    "y_pos": 400,
+                    "z_pos": 882
+                },
+                {
+                    "x_pos": 879,
+                    "y_pos": 400,
+                    "z_pos": 781
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 952,
+                    "y_pos": 400,
+                    "z_pos": 1365
+                },
+                {
+                    "x_pos": 887,
+                    "y_pos": 400,
+                    "z_pos": 1498
+                },
+                {
+                    "x_pos": 904,
+                    "y_pos": 400,
+                    "z_pos": 1232
+                },
+                {
+                    "x_pos": 1018,
+                    "y_pos": 400,
+                    "z_pos": 1257
+                },
+                {
+                    "x_pos": 986,
+                    "y_pos": 400,
+                    "z_pos": 1492
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1699,
+                    "y_pos": 0,
+                    "z_pos": 1105
+                },
+                {
+                    "x_pos": 1580,
+                    "y_pos": 0,
+                    "z_pos": 1007
+                },
+                {
+                    "x_pos": 1833,
+                    "y_pos": 0,
+                    "z_pos": 998
+                },
+                {
+                    "x_pos": 1832,
+                    "y_pos": 0,
+                    "z_pos": 1190
+                },
+                {
+                    "x_pos": 1565,
+                    "y_pos": 0,
+                    "z_pos": 1213
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 3,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 61,
+            "enemy_val_name": "Kasplat (DK)",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 937,
+            "y_pos": 400,
+            "z_pos": 1424,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 20,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 99,
+            "enemy_val_name": "Bat",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 995,
+            "y_pos": 476,
+            "z_pos": 891,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 103,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 84,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 30,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 68,
+            "enemy_val_name": "Banana Fairy",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 1696,
+            "y_pos": 400,
+            "z_pos": 1054,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 160,
+            "max_aggro_speed": 60,
+            "fence_id": 3,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 99,
+            "enemy_val_name": "Bat",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 974,
+            "y_pos": 480,
+            "z_pos": 829,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 89,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 108,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 10,
+            "unk15": 0
+        }
+    ]
+}

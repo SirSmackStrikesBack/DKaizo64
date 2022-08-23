@@ -1,0 +1,66 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 668,
+                    "y_pos": 182,
+                    "z_pos": 503
+                },
+                {
+                    "x_pos": 748,
+                    "y_pos": 57,
+                    "z_pos": 403
+                },
+                {
+                    "x_pos": 591,
+                    "y_pos": 57,
+                    "z_pos": 375
+                },
+                {
+                    "x_pos": 519,
+                    "y_pos": 57,
+                    "z_pos": 579
+                },
+                {
+                    "x_pos": 718,
+                    "y_pos": 57,
+                    "z_pos": 631
+                },
+                {
+                    "x_pos": 817,
+                    "y_pos": 64,
+                    "z_pos": 504
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 111,
+            "enemy_val_name": "Banana Fairy Queen",
+            "unk1": 0,
+            "y_rot": 3072,
+            "x_pos": 588,
+            "y_pos": 89,
+            "z_pos": 508,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 245,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

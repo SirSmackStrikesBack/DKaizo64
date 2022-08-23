@@ -1,0 +1,42 @@
+[
+    {
+        "x_pos": 2210,
+        "y_pos": 49,
+        "z_pos": 1560,
+        "angle": -16449,
+        "has_autowalk": 0,
+        "size": 0
+    },
+    {
+        "x_pos": 2210,
+        "y_pos": 49,
+        "z_pos": 1615,
+        "angle": -16449,
+        "has_autowalk": 0,
+        "size": 0
+    },
+    {
+        "x_pos": 2270,
+        "y_pos": 49,
+        "z_pos": 1560,
+        "angle": -16449,
+        "has_autowalk": 0,
+        "size": 0
+    },
+    {
+        "x_pos": 2270,
+        "y_pos": 49,
+        "z_pos": 1615,
+        "angle": -16449,
+        "has_autowalk": 0,
+        "size": 0
+    },
+    {
+        "x_pos": 1993,
+        "y_pos": 46,
+        "z_pos": 1556,
+        "angle": 0,
+        "has_autowalk": 0,
+        "size": 0
+    }
+]

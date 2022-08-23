@@ -1,0 +1,86 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 106,
+                    "y_pos": 400,
+                    "z_pos": 103
+                },
+                {
+                    "x_pos": 121,
+                    "y_pos": 6,
+                    "z_pos": 205
+                },
+                {
+                    "x_pos": 200,
+                    "y_pos": 6,
+                    "z_pos": 84
+                },
+                {
+                    "x_pos": 118,
+                    "y_pos": 2,
+                    "z_pos": 2
+                },
+                {
+                    "x_pos": 14,
+                    "y_pos": 0,
+                    "z_pos": 38
+                },
+                {
+                    "x_pos": 13,
+                    "y_pos": 2,
+                    "z_pos": 132
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 74,
+            "enemy_val_name": "Nintendo Logo",
+            "unk1": 82,
+            "y_rot": 3585,
+            "x_pos": 110,
+            "y_pos": 6,
+            "z_pos": 100,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 82,
+            "enemy_val_name": "Rareware Logo",
+            "unk1": 0,
+            "y_rot": 3587,
+            "x_pos": 110,
+            "y_pos": 50,
+            "z_pos": 100,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 174
+        }
+    ]
+}

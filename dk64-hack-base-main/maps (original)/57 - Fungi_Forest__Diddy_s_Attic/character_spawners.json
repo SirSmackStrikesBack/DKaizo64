@@ -1,0 +1,66 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 254,
+                    "y_pos": 0,
+                    "z_pos": 287
+                },
+                {
+                    "x_pos": 321,
+                    "y_pos": 0,
+                    "z_pos": 206
+                },
+                {
+                    "x_pos": 373,
+                    "y_pos": 0,
+                    "z_pos": 244
+                },
+                {
+                    "x_pos": 321,
+                    "y_pos": 0,
+                    "z_pos": 385
+                },
+                {
+                    "x_pos": 181,
+                    "y_pos": 0,
+                    "z_pos": 372
+                },
+                {
+                    "x_pos": 135,
+                    "y_pos": 0,
+                    "z_pos": 189
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 99,
+            "enemy_val_name": "Bat",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 278,
+            "y_pos": 94,
+            "z_pos": 276,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 150,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 60,
+            "unk15": 0
+        }
+    ]
+}

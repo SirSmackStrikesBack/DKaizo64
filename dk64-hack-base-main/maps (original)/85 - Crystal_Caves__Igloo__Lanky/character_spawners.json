@@ -1,0 +1,189 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 276,
+                    "y_pos": 87,
+                    "z_pos": 302
+                },
+                {
+                    "x_pos": 97,
+                    "y_pos": 0,
+                    "z_pos": 265
+                },
+                {
+                    "x_pos": 86,
+                    "y_pos": 0,
+                    "z_pos": 376
+                },
+                {
+                    "x_pos": 147,
+                    "y_pos": 0,
+                    "z_pos": 460
+                },
+                {
+                    "x_pos": 242,
+                    "y_pos": 0,
+                    "z_pos": 499
+                },
+                {
+                    "x_pos": 347,
+                    "y_pos": 0,
+                    "z_pos": 485
+                },
+                {
+                    "x_pos": 427,
+                    "y_pos": 0,
+                    "z_pos": 425
+                },
+                {
+                    "x_pos": 467,
+                    "y_pos": 0,
+                    "z_pos": 332
+                },
+                {
+                    "x_pos": 451,
+                    "y_pos": 0,
+                    "z_pos": 228
+                },
+                {
+                    "x_pos": 390,
+                    "y_pos": 0,
+                    "z_pos": 147
+                },
+                {
+                    "x_pos": 295,
+                    "y_pos": 0,
+                    "z_pos": 105
+                },
+                {
+                    "x_pos": 195,
+                    "y_pos": 0,
+                    "z_pos": 119
+                },
+                {
+                    "x_pos": 129,
+                    "y_pos": 0,
+                    "z_pos": 211
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 261,
+                    "y_pos": -17,
+                    "z_pos": 302,
+                    "unk6": "00 4A 14 00"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 0,
+            "y_rot": 2885,
+            "x_pos": 254,
+            "y_pos": 0,
+            "z_pos": 448,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 70,
+            "aggro": 1,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 9
+        },
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 0,
+            "y_rot": 2899,
+            "x_pos": 319,
+            "y_pos": 0,
+            "z_pos": 176,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 80,
+            "aggro": 1,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 9
+        },
+        {
+            "enemy_val": 59,
+            "enemy_val_name": "Kremling",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 359,
+            "y_pos": 0,
+            "z_pos": 431,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 59,
+            "aggro": 1,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 59,
+            "enemy_val_name": "Kremling",
+            "unk1": 0,
+            "y_rot": 2136,
+            "x_pos": 136,
+            "y_pos": 0,
+            "z_pos": 390,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 60,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 0,
+            "unk15": 9
+        },
+        {
+            "enemy_val": 59,
+            "enemy_val_name": "Kremling",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 401,
+            "y_pos": 0,
+            "z_pos": 210,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 71,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 71,
+            "aggro": 1,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 0,
+            "unk15": 9
+        }
+    ]
+}

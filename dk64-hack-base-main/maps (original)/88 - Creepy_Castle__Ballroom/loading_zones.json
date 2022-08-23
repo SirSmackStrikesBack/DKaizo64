@@ -1,0 +1,25 @@
+[
+    {
+        "x_pos": 1083,
+        "y_pos": 40,
+        "z_pos": 1636,
+        "radius": 67,
+        "height": -1,
+        "unkA": 1,
+        "activation_type": 0,
+        "boolD": true,
+        "unkE": 1,
+        "unkF": 32,
+        "object_type": 12,
+        "object_type_name": "Loading Zone + Objects 0xC",
+        "destination_map": 87,
+        "destination_map_name": "Creepy Castle",
+        "destination_exit": 11,
+        "transition_type": 0,
+        "unk18": 0,
+        "cutscene_is_tied": 0,
+        "cutscene_index": 0,
+        "shift_camera_to_kong": 0,
+        "unk20": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    }
+]

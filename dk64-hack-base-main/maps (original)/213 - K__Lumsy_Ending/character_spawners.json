@@ -1,0 +1,202 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 525,
+                    "y_pos": 200,
+                    "z_pos": 530
+                },
+                {
+                    "x_pos": 389,
+                    "y_pos": 200,
+                    "z_pos": 627
+                },
+                {
+                    "x_pos": 508,
+                    "y_pos": 200,
+                    "z_pos": 379
+                },
+                {
+                    "x_pos": 662,
+                    "y_pos": 201,
+                    "z_pos": 452
+                },
+                {
+                    "x_pos": 553,
+                    "y_pos": 202,
+                    "z_pos": 682
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 514,
+                    "y_pos": 431,
+                    "z_pos": 535,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 514,
+                    "y_pos": 432,
+                    "z_pos": 535,
+                    "unk6": "04 14 14 00"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 290,
+            "x_pos": 535,
+            "y_pos": 200,
+            "z_pos": 540,
+            "cutscene_model": 31,
+            "cutscene_model_name": "K. Lumsy",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 10,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 535,
+            "y_pos": 200,
+            "z_pos": 540,
+            "cutscene_model": 38,
+            "cutscene_model_name": "Candy",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 100,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 535,
+            "y_pos": 201,
+            "z_pos": 540,
+            "cutscene_model": 21,
+            "cutscene_model_name": "Diddy",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 100,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 535,
+            "y_pos": 200,
+            "z_pos": 540,
+            "cutscene_model": 24,
+            "cutscene_model_name": "Tiny",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 100,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 535,
+            "y_pos": 200,
+            "z_pos": 540,
+            "cutscene_model": 22,
+            "cutscene_model_name": "Chunky",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 100,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 535,
+            "y_pos": 200,
+            "z_pos": 540,
+            "cutscene_model": 23,
+            "cutscene_model_name": "Lanky",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 100,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 6,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 535,
+            "y_pos": 200,
+            "z_pos": 540,
+            "cutscene_model": 25,
+            "cutscene_model_name": "DK",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 100,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 7,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

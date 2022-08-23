@@ -1,0 +1,306 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 629,
+                    "y_pos": 20,
+                    "z_pos": 322
+                },
+                {
+                    "x_pos": 739,
+                    "y_pos": 20,
+                    "z_pos": 279
+                },
+                {
+                    "x_pos": 751,
+                    "y_pos": 20,
+                    "z_pos": 366
+                },
+                {
+                    "x_pos": 513,
+                    "y_pos": 20,
+                    "z_pos": 355
+                },
+                {
+                    "x_pos": 507,
+                    "y_pos": 20,
+                    "z_pos": 285
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 2
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 626,
+                    "y_pos": 20,
+                    "z_pos": 441
+                },
+                {
+                    "x_pos": 747,
+                    "y_pos": 20,
+                    "z_pos": 405
+                },
+                {
+                    "x_pos": 749,
+                    "y_pos": 20,
+                    "z_pos": 479
+                },
+                {
+                    "x_pos": 508,
+                    "y_pos": 20,
+                    "z_pos": 477
+                },
+                {
+                    "x_pos": 504,
+                    "y_pos": 20,
+                    "z_pos": 404
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 2
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 629,
+                    "y_pos": 20,
+                    "z_pos": 561
+                },
+                {
+                    "x_pos": 744,
+                    "y_pos": 20,
+                    "z_pos": 601
+                },
+                {
+                    "x_pos": 750,
+                    "y_pos": 20,
+                    "z_pos": 520
+                },
+                {
+                    "x_pos": 510,
+                    "y_pos": 20,
+                    "z_pos": 524
+                },
+                {
+                    "x_pos": 509,
+                    "y_pos": 20,
+                    "z_pos": 603
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 3,
+                    "unk_boolean": 2
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 629,
+                    "y_pos": 20,
+                    "z_pos": 688
+                },
+                {
+                    "x_pos": 742,
+                    "y_pos": 20,
+                    "z_pos": 646
+                },
+                {
+                    "x_pos": 741,
+                    "y_pos": 20,
+                    "z_pos": 731
+                },
+                {
+                    "x_pos": 516,
+                    "y_pos": 20,
+                    "z_pos": 724
+                },
+                {
+                    "x_pos": 518,
+                    "y_pos": 20,
+                    "z_pos": 650
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 4,
+                    "unk_boolean": 2
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 39,
+            "enemy_val_name": "Cannon (Seasick Chunky)",
+            "unk1": 227,
+            "y_rot": 3075,
+            "x_pos": 722,
+            "y_pos": 38,
+            "z_pos": 317,
+            "cutscene_model": 1,
+            "unkB": 75,
+            "max_idle_speed": 55,
+            "max_aggro_speed": 0,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 39,
+            "enemy_val_name": "Cannon (Seasick Chunky)",
+            "unk1": 227,
+            "y_rot": 1029,
+            "x_pos": 534,
+            "y_pos": 38,
+            "z_pos": 322,
+            "cutscene_model": 1,
+            "unkB": 75,
+            "max_idle_speed": 55,
+            "max_aggro_speed": 38,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 39,
+            "enemy_val_name": "Cannon (Seasick Chunky)",
+            "unk1": 227,
+            "y_rot": 3082,
+            "x_pos": 727,
+            "y_pos": 38,
+            "z_pos": 435,
+            "cutscene_model": 1,
+            "unkB": 60,
+            "max_idle_speed": 65,
+            "max_aggro_speed": 0,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 39,
+            "enemy_val_name": "Cannon (Seasick Chunky)",
+            "unk1": 227,
+            "y_rot": 1029,
+            "x_pos": 528,
+            "y_pos": 38,
+            "z_pos": 432,
+            "cutscene_model": 1,
+            "unkB": 60,
+            "max_idle_speed": 65,
+            "max_aggro_speed": 30,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 39,
+            "enemy_val_name": "Cannon (Seasick Chunky)",
+            "unk1": 227,
+            "y_rot": 3081,
+            "x_pos": 728,
+            "y_pos": 38,
+            "z_pos": 559,
+            "cutscene_model": 2,
+            "unkB": 81,
+            "max_idle_speed": 66,
+            "max_aggro_speed": 0,
+            "fence_id": 3,
+            "scale": 20,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 39,
+            "enemy_val_name": "Cannon (Seasick Chunky)",
+            "unk1": 227,
+            "y_rot": 1035,
+            "x_pos": 529,
+            "y_pos": 38,
+            "z_pos": 560,
+            "cutscene_model": 1,
+            "unkB": 81,
+            "max_idle_speed": 66,
+            "max_aggro_speed": 45,
+            "fence_id": 3,
+            "scale": 9,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 6,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 39,
+            "enemy_val_name": "Cannon (Seasick Chunky)",
+            "unk1": 120,
+            "y_rot": 3073,
+            "x_pos": 732,
+            "y_pos": 38,
+            "z_pos": 678,
+            "cutscene_model": 3,
+            "unkB": 115,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 0,
+            "fence_id": 4,
+            "scale": 8,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 7,
+            "initial_respawn_timer": 128,
+            "unk15": 120
+        },
+        {
+            "enemy_val": 39,
+            "enemy_val_name": "Cannon (Seasick Chunky)",
+            "unk1": 227,
+            "y_rot": 1028,
+            "x_pos": 529,
+            "y_pos": 38,
+            "z_pos": 678,
+            "cutscene_model": 2,
+            "unkB": 115,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 55,
+            "fence_id": 4,
+            "scale": 22,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 8,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 195,
+                    "y_pos": 0,
+                    "z_pos": 295
+                },
+                {
+                    "x_pos": 73,
+                    "y_pos": 3,
+                    "z_pos": 193
+                },
+                {
+                    "x_pos": 83,
+                    "y_pos": 8,
+                    "z_pos": 503
+                },
+                {
+                    "x_pos": 317,
+                    "y_pos": 0,
+                    "z_pos": 508
+                },
+                {
+                    "x_pos": 297,
+                    "y_pos": 0,
+                    "z_pos": 98
+                },
+                {
+                    "x_pos": 104,
+                    "y_pos": 0,
+                    "z_pos": 82
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 333,
+                    "y_pos": 0,
+                    "z_pos": 267,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 117,
+                    "y_pos": 0,
+                    "z_pos": 265,
+                    "unk6": "04 14 14 00"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 40,
+            "enemy_val_name": "K. Rool's Foot",
+            "unk1": 83,
+            "y_rot": 2048,
+            "x_pos": 220,
+            "y_pos": 0,
+            "z_pos": 464,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 160,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

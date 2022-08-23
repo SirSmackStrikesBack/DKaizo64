@@ -1,0 +1,110 @@
+[
+    {
+        "id": 0,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 273,
+                "y_pos": 62,
+                "z_pos": 309,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 159,
+                "y_pos": 42,
+                "z_pos": 262,
+                "speed": 1,
+                "unk9": 1
+            },
+            {
+                "unk0": 0,
+                "x_pos": 178,
+                "y_pos": 76,
+                "z_pos": 178,
+                "speed": 1,
+                "unk9": 1
+            },
+            {
+                "unk0": 0,
+                "x_pos": 344,
+                "y_pos": 28,
+                "z_pos": 173,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 389,
+                "y_pos": 86,
+                "z_pos": 247,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 332,
+                "y_pos": 20,
+                "z_pos": 237,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 151,
+                "y_pos": 22,
+                "z_pos": 262,
+                "speed": 1,
+                "unk9": 114
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 201,
+                "y_pos": 76,
+                "z_pos": 198,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 324,
+                "y_pos": 78,
+                "z_pos": 196,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 375,
+                "y_pos": 70,
+                "z_pos": 348,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 269,
+                "y_pos": 74,
+                "z_pos": 407,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 173,
+                "y_pos": 72,
+                "z_pos": 350,
+                "speed": 1,
+                "unk9": 0
+            }
+        ]
+    }
+]

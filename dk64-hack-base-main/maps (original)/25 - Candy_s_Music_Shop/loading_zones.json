@@ -1,0 +1,25 @@
+[
+    {
+        "x_pos": 97,
+        "y_pos": 0,
+        "z_pos": 177,
+        "radius": 25,
+        "height": -1,
+        "unkA": 1,
+        "activation_type": 0,
+        "boolD": true,
+        "unkE": 1,
+        "unkF": 64,
+        "object_type": 17,
+        "object_type_name": "Loading Zone 0x11",
+        "destination_map": 0,
+        "destination_map_name": "Test Map",
+        "destination_exit": 0,
+        "transition_type": 0,
+        "unk18": 0,
+        "cutscene_is_tied": 0,
+        "cutscene_index": 0,
+        "shift_camera_to_kong": 0,
+        "unk20": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+    }
+]

@@ -1,0 +1,161 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 589,
+                    "y_pos": 205,
+                    "z_pos": 582
+                },
+                {
+                    "x_pos": 686,
+                    "y_pos": 205,
+                    "z_pos": 526
+                },
+                {
+                    "x_pos": 698,
+                    "y_pos": 205,
+                    "z_pos": 584
+                },
+                {
+                    "x_pos": 684,
+                    "y_pos": 205,
+                    "z_pos": 641
+                },
+                {
+                    "x_pos": 644,
+                    "y_pos": 205,
+                    "z_pos": 680
+                },
+                {
+                    "x_pos": 582,
+                    "y_pos": 205,
+                    "z_pos": 691
+                },
+                {
+                    "x_pos": 534,
+                    "y_pos": 205,
+                    "z_pos": 679
+                },
+                {
+                    "x_pos": 494,
+                    "y_pos": 205,
+                    "z_pos": 646
+                },
+                {
+                    "x_pos": 480,
+                    "y_pos": 205,
+                    "z_pos": 589
+                },
+                {
+                    "x_pos": 495,
+                    "y_pos": 205,
+                    "z_pos": 531
+                },
+                {
+                    "x_pos": 531,
+                    "y_pos": 205,
+                    "z_pos": 492
+                },
+                {
+                    "x_pos": 592,
+                    "y_pos": 205,
+                    "z_pos": 473
+                },
+                {
+                    "x_pos": 645,
+                    "y_pos": 205,
+                    "z_pos": 493
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 65,
+            "enemy_val_name": "Kasplat (Chunky)",
+            "unk1": 125,
+            "y_rot": 2518,
+            "x_pos": 645,
+            "y_pos": 205,
+            "z_pos": 640,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 90,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 4,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 59,
+            "enemy_val_name": "Kremling",
+            "unk1": 0,
+            "y_rot": 1606,
+            "x_pos": 530,
+            "y_pos": 205,
+            "z_pos": 639,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 0,
+            "y_rot": 3563,
+            "x_pos": 647,
+            "y_pos": 205,
+            "z_pos": 526,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 60,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 77,
+            "enemy_val_name": "Battle Crown Controller",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 563,
+            "y_pos": 205,
+            "z_pos": 507,
+            "cutscene_model": 0,
+            "unkB": 60,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

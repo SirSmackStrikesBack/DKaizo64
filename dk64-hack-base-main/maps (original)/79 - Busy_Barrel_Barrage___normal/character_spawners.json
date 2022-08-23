@@ -1,0 +1,221 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 121,
+                    "y_pos": 0,
+                    "z_pos": 141
+                },
+                {
+                    "x_pos": 46,
+                    "y_pos": 0,
+                    "z_pos": 65
+                },
+                {
+                    "x_pos": 79,
+                    "y_pos": 0,
+                    "z_pos": 42
+                },
+                {
+                    "x_pos": 122,
+                    "y_pos": 0,
+                    "z_pos": 33
+                },
+                {
+                    "x_pos": 163,
+                    "y_pos": 0,
+                    "z_pos": 41
+                },
+                {
+                    "x_pos": 197,
+                    "y_pos": 0,
+                    "z_pos": 68
+                },
+                {
+                    "x_pos": 220,
+                    "y_pos": 0,
+                    "z_pos": 100
+                },
+                {
+                    "x_pos": 229,
+                    "y_pos": 0,
+                    "z_pos": 142
+                },
+                {
+                    "x_pos": 220,
+                    "y_pos": 0,
+                    "z_pos": 184
+                },
+                {
+                    "x_pos": 197,
+                    "y_pos": 0,
+                    "z_pos": 217
+                },
+                {
+                    "x_pos": 161,
+                    "y_pos": 0,
+                    "z_pos": 241
+                },
+                {
+                    "x_pos": 120,
+                    "y_pos": 0,
+                    "z_pos": 249
+                },
+                {
+                    "x_pos": 79,
+                    "y_pos": 0,
+                    "z_pos": 240
+                },
+                {
+                    "x_pos": 44,
+                    "y_pos": 0,
+                    "z_pos": 216
+                },
+                {
+                    "x_pos": 21,
+                    "y_pos": 0,
+                    "z_pos": 180
+                },
+                {
+                    "x_pos": 13,
+                    "y_pos": 0,
+                    "z_pos": 142
+                },
+                {
+                    "x_pos": 22,
+                    "y_pos": 0,
+                    "z_pos": 99
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 59,
+            "enemy_val_name": "Kremling",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 28,
+            "y_pos": 0,
+            "z_pos": 140,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 50,
+            "max_aggro_speed": 70,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 59,
+            "enemy_val_name": "Kremling",
+            "unk1": 125,
+            "y_rot": 0,
+            "x_pos": 205,
+            "y_pos": 0,
+            "z_pos": 144,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 50,
+            "max_aggro_speed": 70,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 59,
+            "enemy_val_name": "Kremling",
+            "unk1": 125,
+            "y_rot": 0,
+            "x_pos": 118,
+            "y_pos": 0,
+            "z_pos": 234,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 50,
+            "max_aggro_speed": 70,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 59,
+            "enemy_val_name": "Kremling",
+            "unk1": 125,
+            "y_rot": 0,
+            "x_pos": 124,
+            "y_pos": 0,
+            "z_pos": 47,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 50,
+            "max_aggro_speed": 70,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 59,
+            "enemy_val_name": "Kremling",
+            "unk1": 0,
+            "y_rot": 437,
+            "x_pos": 66,
+            "y_pos": 0,
+            "z_pos": 78,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 80,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 10,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 76,
+            "enemy_val_name": "Minigame Controller",
+            "unk1": 125,
+            "y_rot": 0,
+            "x_pos": 63,
+            "y_pos": 0,
+            "z_pos": 205,
+            "cutscene_model": 0,
+            "unkB": 45,
+            "max_idle_speed": 60,
+            "max_aggro_speed": 255,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 6,
+            "initial_respawn_timer": 3,
+            "unk15": 0
+        }
+    ]
+}

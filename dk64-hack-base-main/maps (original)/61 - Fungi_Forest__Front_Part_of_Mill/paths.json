@@ -1,0 +1,76 @@
+[
+    {
+        "id": 0,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": -36,
+                "y_pos": 16,
+                "z_pos": 576,
+                "speed": 1,
+                "unk9": 32
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "unk4": 128,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 202,
+                "y_pos": 100,
+                "z_pos": 549,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 198,
+                "y_pos": 172,
+                "z_pos": 499,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 222,
+                "y_pos": 92,
+                "z_pos": 452,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 310,
+                "y_pos": 6,
+                "z_pos": 444,
+                "speed": 1,
+                "unk9": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 399,
+                "y_pos": 94,
+                "z_pos": 117,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 606,
+                "y_pos": 90,
+                "z_pos": 115,
+                "speed": 1,
+                "unk9": 0
+            }
+        ]
+    }
+]

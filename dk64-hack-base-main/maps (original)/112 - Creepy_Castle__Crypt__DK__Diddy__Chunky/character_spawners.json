@@ -1,0 +1,530 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 2059,
+                    "y_pos": 11,
+                    "z_pos": 387
+                },
+                {
+                    "x_pos": 2036,
+                    "y_pos": 0,
+                    "z_pos": 49
+                },
+                {
+                    "x_pos": 2021,
+                    "y_pos": 0,
+                    "z_pos": 85
+                },
+                {
+                    "x_pos": 1887,
+                    "y_pos": 0,
+                    "z_pos": 78
+                },
+                {
+                    "x_pos": 1886,
+                    "y_pos": 0,
+                    "z_pos": 701
+                },
+                {
+                    "x_pos": 2021,
+                    "y_pos": 0,
+                    "z_pos": 693
+                },
+                {
+                    "x_pos": 2045,
+                    "y_pos": 0,
+                    "z_pos": 728
+                },
+                {
+                    "x_pos": 2072,
+                    "y_pos": 0,
+                    "z_pos": 729
+                },
+                {
+                    "x_pos": 2092,
+                    "y_pos": 0,
+                    "z_pos": 688
+                },
+                {
+                    "x_pos": 2227,
+                    "y_pos": 0,
+                    "z_pos": 705
+                },
+                {
+                    "x_pos": 2232,
+                    "y_pos": 0,
+                    "z_pos": 81
+                },
+                {
+                    "x_pos": 2084,
+                    "y_pos": 0,
+                    "z_pos": 87
+                },
+                {
+                    "x_pos": 2070,
+                    "y_pos": 0,
+                    "z_pos": 46
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 2076,
+                    "y_pos": 0,
+                    "z_pos": 420,
+                    "unk6": "00 4C 3A 00"
+                },
+                {
+                    "x_pos": 2075,
+                    "y_pos": 0,
+                    "z_pos": 361,
+                    "unk6": "00 4C 34 A8"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1070,
+                    "y_pos": 160,
+                    "z_pos": 2851
+                },
+                {
+                    "x_pos": 763,
+                    "y_pos": 160,
+                    "z_pos": 3069
+                },
+                {
+                    "x_pos": 1377,
+                    "y_pos": 160,
+                    "z_pos": 3064
+                },
+                {
+                    "x_pos": 1376,
+                    "y_pos": 160,
+                    "z_pos": 2639
+                },
+                {
+                    "x_pos": 763,
+                    "y_pos": 160,
+                    "z_pos": 2634
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1511,
+                    "y_pos": 80,
+                    "z_pos": 2334
+                },
+                {
+                    "x_pos": 1684,
+                    "y_pos": 80,
+                    "z_pos": 2166
+                },
+                {
+                    "x_pos": 1678,
+                    "y_pos": 80,
+                    "z_pos": 2502
+                },
+                {
+                    "x_pos": 1344,
+                    "y_pos": 80,
+                    "z_pos": 2502
+                },
+                {
+                    "x_pos": 1338,
+                    "y_pos": 80,
+                    "z_pos": 2174
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 3,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1072,
+                    "y_pos": 160,
+                    "z_pos": 1351
+                },
+                {
+                    "x_pos": 1124,
+                    "y_pos": 160,
+                    "z_pos": 1214
+                },
+                {
+                    "x_pos": 1136,
+                    "y_pos": 160,
+                    "z_pos": 1490
+                },
+                {
+                    "x_pos": 1018,
+                    "y_pos": 160,
+                    "z_pos": 1489
+                },
+                {
+                    "x_pos": 1009,
+                    "y_pos": 160,
+                    "z_pos": 1212
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 4,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1289,
+                    "y_pos": 80,
+                    "z_pos": 842
+                },
+                {
+                    "x_pos": 1472,
+                    "y_pos": 80,
+                    "z_pos": 749
+                },
+                {
+                    "x_pos": 1563,
+                    "y_pos": 80,
+                    "z_pos": 746
+                },
+                {
+                    "x_pos": 1536,
+                    "y_pos": 80,
+                    "z_pos": 916
+                },
+                {
+                    "x_pos": 1126,
+                    "y_pos": 80,
+                    "z_pos": 939
+                },
+                {
+                    "x_pos": 1016,
+                    "y_pos": 80,
+                    "z_pos": 933
+                },
+                {
+                    "x_pos": 1047,
+                    "y_pos": 80,
+                    "z_pos": 835
+                },
+                {
+                    "x_pos": 1448,
+                    "y_pos": 80,
+                    "z_pos": 809
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 5,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 895,
+                    "y_pos": 240,
+                    "z_pos": 2156
+                },
+                {
+                    "x_pos": 1102,
+                    "y_pos": 240,
+                    "z_pos": 2138
+                },
+                {
+                    "x_pos": 1110,
+                    "y_pos": 240,
+                    "z_pos": 2227
+                },
+                {
+                    "x_pos": 694,
+                    "y_pos": 240,
+                    "z_pos": 2227
+                },
+                {
+                    "x_pos": 680,
+                    "y_pos": 240,
+                    "z_pos": 2085
+                },
+                {
+                    "x_pos": 810,
+                    "y_pos": 240,
+                    "z_pos": 2116
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 6,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 101,
+            "enemy_val_name": "Kritter-in-a-Sheet",
+            "unk1": 125,
+            "y_rot": 0,
+            "x_pos": 2061,
+            "y_pos": 3,
+            "z_pos": 61,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 61,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 71,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 101,
+            "enemy_val_name": "Kritter-in-a-Sheet",
+            "unk1": 125,
+            "y_rot": 0,
+            "x_pos": 2048,
+            "y_pos": 3,
+            "z_pos": 61,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 45,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 0,
+            "y_rot": 1985,
+            "x_pos": 2062,
+            "y_pos": 3,
+            "z_pos": 714,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 60,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 216
+        },
+        {
+            "enemy_val": 101,
+            "enemy_val_name": "Kritter-in-a-Sheet",
+            "unk1": 125,
+            "y_rot": 2022,
+            "x_pos": 2051,
+            "y_pos": 3,
+            "z_pos": 717,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 60,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 76,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 1011,
+            "y_pos": 160,
+            "z_pos": 2883,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 125,
+            "y_rot": 0,
+            "x_pos": 1107,
+            "y_pos": 160,
+            "z_pos": 2844,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 6,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 101,
+            "enemy_val_name": "Kritter-in-a-Sheet",
+            "unk1": 125,
+            "y_rot": 2001,
+            "x_pos": 1043,
+            "y_pos": 160,
+            "z_pos": 2830,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 7,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 125,
+            "y_rot": 0,
+            "x_pos": 1084,
+            "y_pos": 160,
+            "z_pos": 2897,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 8,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 1564,
+            "y_pos": 80,
+            "z_pos": 2441,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 3,
+            "scale": 80,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 9,
+            "initial_respawn_timer": 30,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 1077,
+            "y_pos": 160,
+            "z_pos": 1284,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 4,
+            "scale": 80,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 10,
+            "initial_respawn_timer": 10,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 1485,
+            "y_pos": 80,
+            "z_pos": 830,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 5,
+            "scale": 80,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 11,
+            "initial_respawn_timer": 10,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 969,
+            "y_pos": 240,
+            "z_pos": 2156,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 6,
+            "scale": 80,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 12,
+            "initial_respawn_timer": 10,
+            "unk15": 0
+        }
+    ]
+}

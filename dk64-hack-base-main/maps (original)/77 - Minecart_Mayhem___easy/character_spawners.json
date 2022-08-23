@@ -1,0 +1,56 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 181,
+                    "y_pos": 114,
+                    "z_pos": 252
+                },
+                {
+                    "x_pos": 165,
+                    "y_pos": 116,
+                    "z_pos": 240
+                },
+                {
+                    "x_pos": 198,
+                    "y_pos": 107,
+                    "z_pos": 255
+                },
+                {
+                    "x_pos": 165,
+                    "y_pos": 114,
+                    "z_pos": 265
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 36,
+            "enemy_val_name": "Minecart (TNT)",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 180,
+            "y_pos": 114,
+            "z_pos": 251,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 100,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 22
+        }
+    ]
+}

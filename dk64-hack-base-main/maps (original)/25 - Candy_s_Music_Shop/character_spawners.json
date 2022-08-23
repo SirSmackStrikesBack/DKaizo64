@@ -1,0 +1,87 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 97,
+                    "y_pos": 0,
+                    "z_pos": 60
+                },
+                {
+                    "x_pos": 67,
+                    "y_pos": 0,
+                    "z_pos": 2
+                },
+                {
+                    "x_pos": 21,
+                    "y_pos": 12,
+                    "z_pos": 118
+                },
+                {
+                    "x_pos": 174,
+                    "y_pos": 0,
+                    "z_pos": 114
+                },
+                {
+                    "x_pos": 124,
+                    "y_pos": 0,
+                    "z_pos": 2
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 96,
+                    "y_pos": 0,
+                    "z_pos": 23,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 173,
+                    "y_pos": 0,
+                    "z_pos": -34,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 95,
+                    "y_pos": 0,
+                    "z_pos": 85,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 97,
+                    "y_pos": 0,
+                    "z_pos": 120,
+                    "unk6": "04 14 14 00"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 13,
+            "enemy_val_name": "Candy",
+            "unk1": 96,
+            "y_rot": 0,
+            "x_pos": 94,
+            "y_pos": 0,
+            "z_pos": 33,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 63,
+            "aggro": 0,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

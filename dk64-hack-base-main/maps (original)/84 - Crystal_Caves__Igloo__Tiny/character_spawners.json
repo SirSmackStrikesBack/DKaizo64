@@ -1,0 +1,251 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 273,
+                    "y_pos": 0,
+                    "z_pos": 306
+                },
+                {
+                    "x_pos": 122,
+                    "y_pos": 0,
+                    "z_pos": 203
+                },
+                {
+                    "x_pos": 209,
+                    "y_pos": 0,
+                    "z_pos": 125
+                },
+                {
+                    "x_pos": 301,
+                    "y_pos": 0,
+                    "z_pos": 116
+                },
+                {
+                    "x_pos": 390,
+                    "y_pos": 0,
+                    "z_pos": 145
+                },
+                {
+                    "x_pos": 449,
+                    "y_pos": 0,
+                    "z_pos": 235
+                },
+                {
+                    "x_pos": 460,
+                    "y_pos": 0,
+                    "z_pos": 325
+                },
+                {
+                    "x_pos": 419,
+                    "y_pos": 0,
+                    "z_pos": 425
+                },
+                {
+                    "x_pos": 339,
+                    "y_pos": 0,
+                    "z_pos": 484
+                },
+                {
+                    "x_pos": 244,
+                    "y_pos": 0,
+                    "z_pos": 497
+                },
+                {
+                    "x_pos": 143,
+                    "y_pos": 0,
+                    "z_pos": 454
+                },
+                {
+                    "x_pos": 86,
+                    "y_pos": 0,
+                    "z_pos": 369
+                },
+                {
+                    "x_pos": 97,
+                    "y_pos": 0,
+                    "z_pos": 274
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 281,
+                    "y_pos": 0,
+                    "z_pos": 302
+                },
+                {
+                    "x_pos": 333,
+                    "y_pos": 0,
+                    "z_pos": 473
+                },
+                {
+                    "x_pos": 239,
+                    "y_pos": 0,
+                    "z_pos": 487
+                },
+                {
+                    "x_pos": 158,
+                    "y_pos": 0,
+                    "z_pos": 448
+                },
+                {
+                    "x_pos": 96,
+                    "y_pos": 0,
+                    "z_pos": 365
+                },
+                {
+                    "x_pos": 155,
+                    "y_pos": 0,
+                    "z_pos": 192
+                },
+                {
+                    "x_pos": 209,
+                    "y_pos": 0,
+                    "z_pos": 127
+                },
+                {
+                    "x_pos": 301,
+                    "y_pos": 0,
+                    "z_pos": 118
+                },
+                {
+                    "x_pos": 382,
+                    "y_pos": 0,
+                    "z_pos": 147
+                },
+                {
+                    "x_pos": 442,
+                    "y_pos": 0,
+                    "z_pos": 228
+                },
+                {
+                    "x_pos": 466,
+                    "y_pos": 0,
+                    "z_pos": 329
+                },
+                {
+                    "x_pos": 414,
+                    "y_pos": 0,
+                    "z_pos": 420
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 286,
+                    "y_pos": 0,
+                    "z_pos": 311
+                },
+                {
+                    "x_pos": 249,
+                    "y_pos": 0,
+                    "z_pos": 373
+                },
+                {
+                    "x_pos": 224,
+                    "y_pos": 0,
+                    "z_pos": 298
+                },
+                {
+                    "x_pos": 292,
+                    "y_pos": 0,
+                    "z_pos": 249
+                },
+                {
+                    "x_pos": 349,
+                    "y_pos": 0,
+                    "z_pos": 305
+                },
+                {
+                    "x_pos": 326,
+                    "y_pos": 0,
+                    "z_pos": 342
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 3,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 32,
+            "enemy_val_name": "GETOUT Controller",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 238,
+            "y_pos": 100,
+            "z_pos": 286,
+            "cutscene_model": 0,
+            "unkB": 10,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 203
+        },
+        {
+            "enemy_val": 103,
+            "enemy_val_name": "Kosha",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 304,
+            "y_pos": 0,
+            "z_pos": 303,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 3,
+            "scale": 85,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 10,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 68,
+            "enemy_val_name": "Banana Fairy",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 309,
+            "y_pos": 90,
+            "z_pos": 438,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

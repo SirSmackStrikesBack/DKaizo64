@@ -1,0 +1,88 @@
+{
+    "model2": [
+        {
+            "x_pos": 708.884521484375,
+            "y_pos": 0.0,
+            "z_pos": 951.1831665039062,
+            "scale": 0.25,
+            "unk10": "3A BB 5A A9 72 44 08 DE",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 640,
+            "behaviour_name": "Director's Chair",
+            "unk2A": "00 00 00 01 00 00"
+        },
+        {
+            "x_pos": 647.9158325195312,
+            "y_pos": 0.0,
+            "z_pos": 956.200439453125,
+            "scale": 0.25,
+            "unk10": "93 26 E5 5E 77 5B 86 AB",
+            "angle18": 0.0,
+            "angle1C": 123.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 641,
+            "behaviour_name": "Spotlight",
+            "unk2A": "00 01 00 01 00 00"
+        },
+        {
+            "x_pos": 758.5245971679688,
+            "y_pos": 1.8947806851624636e-14,
+            "z_pos": 931.8034057617188,
+            "scale": 0.25,
+            "unk10": "D2 48 5F 72 DB 6C F6 EA",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 641,
+            "behaviour_name": "Spotlight",
+            "unk2A": "00 02 00 01 00 00"
+        },
+        {
+            "x_pos": 673.4782104492188,
+            "y_pos": 28.0,
+            "z_pos": 938.25927734375,
+            "scale": 0.25,
+            "unk10": "C5 0A FF 61 74 16 DD 21",
+            "angle18": 0.0,
+            "angle1C": 149.0,
+            "angle20": 0.0,
+            "unk24": 28.0,
+            "behaviour": 643,
+            "behaviour_name": "Boom Microphone",
+            "unk2A": "00 03 00 01 00 00"
+        },
+        {
+            "x_pos": 615.2919921875,
+            "y_pos": 0.0,
+            "z_pos": 876.0198364257812,
+            "scale": 0.25,
+            "unk10": "00 00 06 20 80 3F 33 10",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 644,
+            "behaviour_name": "Auditions Sign",
+            "unk2A": "00 04 00 01 00 00"
+        },
+        {
+            "x_pos": 687.4431762695312,
+            "y_pos": 4.0,
+            "z_pos": 805.9260864257812,
+            "scale": 0.25,
+            "unk10": "71 28 2B F2 86 30 C2 28",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 4.0,
+            "behaviour": 654,
+            "behaviour_name": "King Kut Out Arm (Bloopers)",
+            "unk2A": "00 05 00 01 00 00"
+        }
+    ]
+}

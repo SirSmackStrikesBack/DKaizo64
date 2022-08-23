@@ -1,0 +1,687 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 108,
+                    "y_pos": 0,
+                    "z_pos": 101
+                },
+                {
+                    "x_pos": -131,
+                    "y_pos": 0,
+                    "z_pos": -430
+                },
+                {
+                    "x_pos": 480,
+                    "y_pos": 0,
+                    "z_pos": -371
+                },
+                {
+                    "x_pos": 548,
+                    "y_pos": 0,
+                    "z_pos": 71
+                },
+                {
+                    "x_pos": 303,
+                    "y_pos": 0,
+                    "z_pos": 414
+                },
+                {
+                    "x_pos": 28,
+                    "y_pos": 0,
+                    "z_pos": 383
+                },
+                {
+                    "x_pos": -158,
+                    "y_pos": 0,
+                    "z_pos": 150
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 112,
+                    "y_pos": 6,
+                    "z_pos": 114,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 109,
+                    "y_pos": 6,
+                    "z_pos": 140,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 134,
+                    "y_pos": 6,
+                    "z_pos": 120,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 94,
+                    "y_pos": 6,
+                    "z_pos": 100,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 84,
+                    "y_pos": 6,
+                    "z_pos": 120,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 124,
+                    "y_pos": 6,
+                    "z_pos": 100,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 112,
+                    "y_pos": 6,
+                    "z_pos": -335,
+                    "unk6": "04 05 14 71"
+                },
+                {
+                    "x_pos": 112,
+                    "y_pos": 6,
+                    "z_pos": 185,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 94,
+                    "y_pos": 6,
+                    "z_pos": 75,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 110,
+                    "y_pos": 6,
+                    "z_pos": 120,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 134,
+                    "y_pos": 6,
+                    "z_pos": 100,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 79,
+                    "y_pos": 6,
+                    "z_pos": 100,
+                    "unk6": "04 05 14 E0"
+                },
+                {
+                    "x_pos": 131,
+                    "y_pos": 6,
+                    "z_pos": 77,
+                    "unk6": "04 05 14 02"
+                },
+                {
+                    "x_pos": 114,
+                    "y_pos": 6,
+                    "z_pos": 65,
+                    "unk6": "04 05 14 50"
+                },
+                {
+                    "x_pos": 129,
+                    "y_pos": 6,
+                    "z_pos": 85,
+                    "unk6": "04 05 14 3C"
+                },
+                {
+                    "x_pos": 144,
+                    "y_pos": 6,
+                    "z_pos": 110,
+                    "unk6": "04 05 14 A0"
+                },
+                {
+                    "x_pos": 99,
+                    "y_pos": 6,
+                    "z_pos": 85,
+                    "unk6": "04 05 14 3C"
+                },
+                {
+                    "x_pos": 84,
+                    "y_pos": 6,
+                    "z_pos": 110,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 204,
+                    "y_pos": 6,
+                    "z_pos": 45,
+                    "unk6": "04 05 14 7E"
+                },
+                {
+                    "x_pos": 112,
+                    "y_pos": 6,
+                    "z_pos": 10,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 112,
+                    "y_pos": 6,
+                    "z_pos": 102,
+                    "unk6": "04 05 14 56"
+                },
+                {
+                    "x_pos": 110,
+                    "y_pos": 52,
+                    "z_pos": 115,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 101,
+                    "y_pos": 0,
+                    "z_pos": 33,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 101,
+                    "y_pos": 53,
+                    "z_pos": 33,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 109,
+                    "y_pos": 45,
+                    "z_pos": 80,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 210,
+                    "y_pos": 6,
+                    "z_pos": 114,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 114,
+                    "y_pos": 6,
+                    "z_pos": 62,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 113,
+                    "y_pos": 6,
+                    "z_pos": 85,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 112,
+                    "y_pos": 37,
+                    "z_pos": 114,
+                    "unk6": "04 08 14 00"
+                },
+                {
+                    "x_pos": 138,
+                    "y_pos": 40,
+                    "z_pos": 150,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 138,
+                    "y_pos": 6,
+                    "z_pos": 150,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 73,
+                    "y_pos": 6,
+                    "z_pos": 148,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 73,
+                    "y_pos": 40,
+                    "z_pos": 149,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 90,
+                    "y_pos": 6,
+                    "z_pos": 186,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 90,
+                    "y_pos": 30,
+                    "z_pos": 186,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 144,
+                    "y_pos": 6,
+                    "z_pos": 169,
+                    "unk6": "04 05 14 FF"
+                },
+                {
+                    "x_pos": 15,
+                    "y_pos": 49,
+                    "z_pos": 30,
+                    "unk6": "04 05 14 96"
+                },
+                {
+                    "x_pos": 196,
+                    "y_pos": 6,
+                    "z_pos": 253,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 163,
+                    "y_pos": 0,
+                    "z_pos": 101,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 138,
+                    "y_pos": 0,
+                    "z_pos": 87,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 19,
+                    "y_pos": 78,
+                    "z_pos": 49,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 9,
+                    "y_pos": 61,
+                    "z_pos": 30,
+                    "unk6": "04 05 14 D4"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 19,
+            "enemy_val_name": "DK",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 109,
+            "y_pos": 6,
+            "z_pos": 140,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 28
+        },
+        {
+            "enemy_val": 20,
+            "enemy_val_name": "Diddy",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 134,
+            "y_pos": 6,
+            "z_pos": 120,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 28
+        },
+        {
+            "enemy_val": 21,
+            "enemy_val_name": "Lanky",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 94,
+            "y_pos": 6,
+            "z_pos": 100,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 28
+        },
+        {
+            "enemy_val": 22,
+            "enemy_val_name": "Tiny",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 84,
+            "y_pos": 6,
+            "z_pos": 120,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 0,
+            "unk15": 28
+        },
+        {
+            "enemy_val": 23,
+            "enemy_val_name": "Chunky",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 124,
+            "y_pos": 6,
+            "z_pos": 100,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 0,
+            "unk15": 28,
+            "extra_data": [
+                5120
+            ]
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 1965,
+            "x_pos": 112,
+            "y_pos": 6,
+            "z_pos": 185,
+            "cutscene_model": 2,
+            "cutscene_model_name": "Klaptrap (Green)",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 30,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 6,
+            "initial_respawn_timer": 0,
+            "unk15": 223,
+            "extra_data": [
+                4864
+            ]
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 112,
+            "y_pos": 6,
+            "z_pos": 10,
+            "cutscene_model": 3,
+            "cutscene_model_name": "Klaptrap (Purple)",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 30,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 7,
+            "initial_respawn_timer": 0,
+            "unk15": 223,
+            "extra_data": [
+                1792
+            ]
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 108,
+            "y_pos": 6,
+            "z_pos": 110,
+            "cutscene_model": 5,
+            "cutscene_model_name": "Klump",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 30,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 8,
+            "initial_respawn_timer": 0,
+            "unk15": 223,
+            "extra_data": [
+                1792
+            ]
+        },
+        {
+            "enemy_val": 16,
+            "enemy_val_name": "Kaboom",
+            "unk1": 0,
+            "y_rot": 2049,
+            "x_pos": 88,
+            "y_pos": 12,
+            "z_pos": 155,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 4,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 10,
+            "initial_respawn_timer": 0,
+            "unk15": 82
+        },
+        {
+            "enemy_val": 16,
+            "enemy_val_name": "Kaboom",
+            "unk1": 0,
+            "y_rot": 2050,
+            "x_pos": 109,
+            "y_pos": 10,
+            "z_pos": 136,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 4,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 11,
+            "initial_respawn_timer": 0,
+            "unk15": 82
+        },
+        {
+            "enemy_val": 16,
+            "enemy_val_name": "Kaboom",
+            "unk1": 0,
+            "y_rot": 2048,
+            "x_pos": 130,
+            "y_pos": 10,
+            "z_pos": 155,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 4,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 12,
+            "initial_respawn_timer": 0,
+            "unk15": 82
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 114,
+            "y_pos": 6,
+            "z_pos": 120,
+            "cutscene_model": 8,
+            "cutscene_model_name": "Boulder",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 13,
+            "initial_respawn_timer": 0,
+            "unk15": 82
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 571,
+            "x_pos": 45,
+            "y_pos": 6,
+            "z_pos": 46,
+            "cutscene_model": 6,
+            "cutscene_model_name": "Cranky",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 14,
+            "initial_respawn_timer": 0,
+            "unk15": 82
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 570,
+            "x_pos": 45,
+            "y_pos": 6,
+            "z_pos": 46,
+            "cutscene_model": 7,
+            "cutscene_model_name": "Turntable",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 15,
+            "initial_respawn_timer": 0,
+            "unk15": 82
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 138,
+            "y_pos": 6,
+            "z_pos": 150,
+            "cutscene_model": 10,
+            "cutscene_model_name": "Zinger",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 16,
+            "initial_respawn_timer": 0,
+            "unk15": 82
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 73,
+            "y_pos": 6,
+            "z_pos": 148,
+            "cutscene_model": 10,
+            "cutscene_model_name": "Zinger",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 17,
+            "initial_respawn_timer": 0,
+            "unk15": 82
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 90,
+            "y_pos": 6,
+            "z_pos": 186,
+            "cutscene_model": 10,
+            "cutscene_model_name": "Zinger",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 18,
+            "initial_respawn_timer": 0,
+            "unk15": 82
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 2439,
+            "x_pos": 127,
+            "y_pos": 6,
+            "z_pos": 137,
+            "cutscene_model": 2,
+            "cutscene_model_name": "Klaptrap (Green)",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 19,
+            "initial_respawn_timer": 0,
+            "unk15": 82
+        }
+    ]
+}

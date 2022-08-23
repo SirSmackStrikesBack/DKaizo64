@@ -1,0 +1,160 @@
+[
+    {
+        "id": 0,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 760,
+                "y_pos": 100,
+                "z_pos": 430,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 750,
+                "y_pos": 58,
+                "z_pos": 621,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 591,
+                "y_pos": 130,
+                "z_pos": 547,
+                "speed": 1,
+                "unk9": 0
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 419,
+                "y_pos": 144,
+                "z_pos": 775,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 494,
+                "y_pos": 80,
+                "z_pos": 642,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 368,
+                "y_pos": 42,
+                "z_pos": 571,
+                "speed": 1,
+                "unk9": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 717,
+                "y_pos": 70,
+                "z_pos": 395,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 589,
+                "y_pos": 74,
+                "z_pos": 311,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 487,
+                "y_pos": 74,
+                "z_pos": 211,
+                "speed": 1,
+                "unk9": 0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 484,
+                "y_pos": 120,
+                "z_pos": 411,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 427,
+                "y_pos": 62,
+                "z_pos": 566,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 563,
+                "y_pos": 112,
+                "z_pos": 599,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 636,
+                "y_pos": 88,
+                "z_pos": 401,
+                "speed": 1,
+                "unk9": 0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "unk4": 0,
+        "points": [
+            {
+                "unk0": 0,
+                "x_pos": 442,
+                "y_pos": 68,
+                "z_pos": 341,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 311,
+                "y_pos": 60,
+                "z_pos": 241,
+                "speed": 1,
+                "unk9": 0
+            },
+            {
+                "unk0": 0,
+                "x_pos": 197,
+                "y_pos": 86,
+                "z_pos": 428,
+                "speed": 1,
+                "unk9": 0
+            }
+        ]
+    }
+]

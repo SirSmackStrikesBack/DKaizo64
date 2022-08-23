@@ -1,0 +1,269 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 501,
+                    "y_pos": 0,
+                    "z_pos": 1226
+                },
+                {
+                    "x_pos": 590,
+                    "y_pos": 0,
+                    "z_pos": 909
+                },
+                {
+                    "x_pos": 591,
+                    "y_pos": 0,
+                    "z_pos": 2442
+                },
+                {
+                    "x_pos": 414,
+                    "y_pos": 0,
+                    "z_pos": 2442
+                },
+                {
+                    "x_pos": 406,
+                    "y_pos": 1,
+                    "z_pos": 903
+                },
+                {
+                    "x_pos": 124,
+                    "y_pos": 0,
+                    "z_pos": 914
+                },
+                {
+                    "x_pos": 90,
+                    "y_pos": 0,
+                    "z_pos": 633
+                },
+                {
+                    "x_pos": 15,
+                    "y_pos": 0,
+                    "z_pos": 612
+                },
+                {
+                    "x_pos": 7,
+                    "y_pos": 0,
+                    "z_pos": 461
+                },
+                {
+                    "x_pos": 82,
+                    "y_pos": 0,
+                    "z_pos": 451
+                },
+                {
+                    "x_pos": 110,
+                    "y_pos": 0,
+                    "z_pos": 96
+                },
+                {
+                    "x_pos": 405,
+                    "y_pos": 0,
+                    "z_pos": 90
+                },
+                {
+                    "x_pos": 409,
+                    "y_pos": 0,
+                    "z_pos": 11
+                },
+                {
+                    "x_pos": 588,
+                    "y_pos": 0,
+                    "z_pos": 12
+                },
+                {
+                    "x_pos": 594,
+                    "y_pos": 0,
+                    "z_pos": 97
+                },
+                {
+                    "x_pos": 917,
+                    "y_pos": 0,
+                    "z_pos": 124
+                },
+                {
+                    "x_pos": 911,
+                    "y_pos": 0,
+                    "z_pos": 410
+                },
+                {
+                    "x_pos": 995,
+                    "y_pos": 0,
+                    "z_pos": 411
+                },
+                {
+                    "x_pos": 986,
+                    "y_pos": 0,
+                    "z_pos": 593
+                },
+                {
+                    "x_pos": 912,
+                    "y_pos": 0,
+                    "z_pos": 592
+                },
+                {
+                    "x_pos": 882,
+                    "y_pos": 0,
+                    "z_pos": 915
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 495,
+                    "y_pos": 0,
+                    "z_pos": 748,
+                    "unk6": "04 28 14 FF"
+                },
+                {
+                    "x_pos": 248,
+                    "y_pos": 0,
+                    "z_pos": 492,
+                    "unk6": "04 28 14 FF"
+                },
+                {
+                    "x_pos": 509,
+                    "y_pos": 0,
+                    "z_pos": 310,
+                    "unk6": "04 28 14 FF"
+                },
+                {
+                    "x_pos": 747,
+                    "y_pos": 0,
+                    "z_pos": 498,
+                    "unk6": "04 28 14 FF"
+                },
+                {
+                    "x_pos": 501,
+                    "y_pos": 0,
+                    "z_pos": 996,
+                    "unk6": "04 14 14 FF"
+                },
+                {
+                    "x_pos": 13,
+                    "y_pos": 0,
+                    "z_pos": 544,
+                    "unk6": "04 14 14 FF"
+                },
+                {
+                    "x_pos": 502,
+                    "y_pos": 0,
+                    "z_pos": 10,
+                    "unk6": "04 14 14 FF"
+                },
+                {
+                    "x_pos": 986,
+                    "y_pos": 0,
+                    "z_pos": 505,
+                    "unk6": "04 14 14 FF"
+                },
+                {
+                    "x_pos": 291,
+                    "y_pos": 0,
+                    "z_pos": 805,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 165,
+                    "y_pos": 0,
+                    "z_pos": 352,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 717,
+                    "y_pos": 0,
+                    "z_pos": 830,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 823,
+                    "y_pos": 0,
+                    "z_pos": 452,
+                    "unk6": "04 14 14 E0"
+                },
+                {
+                    "x_pos": 533,
+                    "y_pos": 0,
+                    "z_pos": 133,
+                    "unk6": "04 14 14 02"
+                },
+                {
+                    "x_pos": 497,
+                    "y_pos": 0,
+                    "z_pos": 534,
+                    "unk6": "04 14 14 50"
+                },
+                {
+                    "x_pos": 490,
+                    "y_pos": 0,
+                    "z_pos": 478,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 503,
+                    "y_pos": 0,
+                    "z_pos": 2184,
+                    "unk6": "04 14 14 FF"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 8,
+            "enemy_val_name": "Army Dillo",
+            "unk1": 0,
+            "y_rot": 2033,
+            "x_pos": 486,
+            "y_pos": 0,
+            "z_pos": 1041,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 220,
+            "max_aggro_speed": 120,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 0,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 141,
+            "extra_data": [
+                0,
+                256,
+                512,
+                768
+            ]
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 495,
+            "y_pos": 0,
+            "z_pos": 748,
+            "cutscene_model": 35,
+            "cutscene_model_name": "Army Dillo",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0,
+            "extra_data": [
+                3840
+            ]
+        }
+    ]
+}

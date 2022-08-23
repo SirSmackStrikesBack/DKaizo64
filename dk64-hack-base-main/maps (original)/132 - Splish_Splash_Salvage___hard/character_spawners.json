@@ -1,0 +1,321 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 275,
+                    "y_pos": 0,
+                    "z_pos": 260
+                },
+                {
+                    "x_pos": 368,
+                    "y_pos": 0,
+                    "z_pos": 213
+                },
+                {
+                    "x_pos": 356,
+                    "y_pos": 0,
+                    "z_pos": 272
+                },
+                {
+                    "x_pos": 320,
+                    "y_pos": 0,
+                    "z_pos": 322
+                },
+                {
+                    "x_pos": 278,
+                    "y_pos": 0,
+                    "z_pos": 356
+                },
+                {
+                    "x_pos": 211,
+                    "y_pos": 0,
+                    "z_pos": 371
+                },
+                {
+                    "x_pos": 183,
+                    "y_pos": 0,
+                    "z_pos": 149
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 266,
+                    "y_pos": 0,
+                    "z_pos": 163
+                },
+                {
+                    "x_pos": 354,
+                    "y_pos": 0,
+                    "z_pos": 275
+                },
+                {
+                    "x_pos": 370,
+                    "y_pos": 0,
+                    "z_pos": 216
+                },
+                {
+                    "x_pos": 362,
+                    "y_pos": 0,
+                    "z_pos": 151
+                },
+                {
+                    "x_pos": 329,
+                    "y_pos": 0,
+                    "z_pos": 100
+                },
+                {
+                    "x_pos": 275,
+                    "y_pos": 0,
+                    "z_pos": 65
+                },
+                {
+                    "x_pos": 216,
+                    "y_pos": 0,
+                    "z_pos": 52
+                },
+                {
+                    "x_pos": 162,
+                    "y_pos": 0,
+                    "z_pos": 229
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 162,
+                    "y_pos": 0,
+                    "z_pos": 140
+                },
+                {
+                    "x_pos": 273,
+                    "y_pos": 0,
+                    "z_pos": 68
+                },
+                {
+                    "x_pos": 217,
+                    "y_pos": 0,
+                    "z_pos": 52
+                },
+                {
+                    "x_pos": 154,
+                    "y_pos": 0,
+                    "z_pos": 63
+                },
+                {
+                    "x_pos": 99,
+                    "y_pos": 0,
+                    "z_pos": 96
+                },
+                {
+                    "x_pos": 64,
+                    "y_pos": 0,
+                    "z_pos": 148
+                },
+                {
+                    "x_pos": 51,
+                    "y_pos": 0,
+                    "z_pos": 205
+                },
+                {
+                    "x_pos": 222,
+                    "y_pos": 0,
+                    "z_pos": 229
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 3,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 160,
+                    "y_pos": 0,
+                    "z_pos": 287
+                },
+                {
+                    "x_pos": 271,
+                    "y_pos": 0,
+                    "z_pos": 359
+                },
+                {
+                    "x_pos": 209,
+                    "y_pos": 0,
+                    "z_pos": 370
+                },
+                {
+                    "x_pos": 150,
+                    "y_pos": 0,
+                    "z_pos": 361
+                },
+                {
+                    "x_pos": 96,
+                    "y_pos": 0,
+                    "z_pos": 327
+                },
+                {
+                    "x_pos": 65,
+                    "y_pos": 0,
+                    "z_pos": 270
+                },
+                {
+                    "x_pos": 49,
+                    "y_pos": 0,
+                    "z_pos": 205
+                },
+                {
+                    "x_pos": 247,
+                    "y_pos": 0,
+                    "z_pos": 210
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 4,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 85,
+            "enemy_val_name": "Shuri",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 167,
+            "y_pos": 0,
+            "z_pos": 283,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 70,
+            "fence_id": 4,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 86,
+            "enemy_val_name": "Gimpfish",
+            "unk1": 125,
+            "y_rot": 0,
+            "x_pos": 164,
+            "y_pos": 0,
+            "z_pos": 139,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 70,
+            "fence_id": 3,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 85,
+            "enemy_val_name": "Shuri",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 299,
+            "y_pos": 0,
+            "z_pos": 175,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 70,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 86,
+            "enemy_val_name": "Gimpfish",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 274,
+            "y_pos": 0,
+            "z_pos": 283,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 70,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 85,
+            "enemy_val_name": "Shuri",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 103,
+            "y_pos": 0,
+            "z_pos": 170,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 70,
+            "fence_id": 3,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 76,
+            "enemy_val_name": "Minigame Controller",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 167,
+            "y_pos": 0,
+            "z_pos": 87,
+            "cutscene_model": 15,
+            "unkB": 60,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 3,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 6,
+            "initial_respawn_timer": 5,
+            "unk15": 0
+        }
+    ]
+}

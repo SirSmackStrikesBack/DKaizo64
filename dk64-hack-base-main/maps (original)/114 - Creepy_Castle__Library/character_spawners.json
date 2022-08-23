@@ -1,0 +1,436 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 330,
+                    "y_pos": 215,
+                    "z_pos": 378
+                },
+                {
+                    "x_pos": 472,
+                    "y_pos": 190,
+                    "z_pos": 146
+                },
+                {
+                    "x_pos": 116,
+                    "y_pos": 190,
+                    "z_pos": 145
+                },
+                {
+                    "x_pos": 114,
+                    "y_pos": 190,
+                    "z_pos": 611
+                },
+                {
+                    "x_pos": 464,
+                    "y_pos": 190,
+                    "z_pos": 607
+                },
+                {
+                    "x_pos": 475,
+                    "y_pos": 190,
+                    "z_pos": 433
+                },
+                {
+                    "x_pos": 546,
+                    "y_pos": 169,
+                    "z_pos": 438
+                },
+                {
+                    "x_pos": 539,
+                    "y_pos": 171,
+                    "z_pos": 309
+                },
+                {
+                    "x_pos": 469,
+                    "y_pos": 190,
+                    "z_pos": 303
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 208,
+                    "y_pos": 189,
+                    "z_pos": 325,
+                    "unk6": "00 3D 1E 00"
+                },
+                {
+                    "x_pos": 293,
+                    "y_pos": 191,
+                    "z_pos": 372,
+                    "unk6": "00 40 1E 00"
+                },
+                {
+                    "x_pos": 297,
+                    "y_pos": 190,
+                    "z_pos": 286,
+                    "unk6": "00 3C 1E 00"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 2222,
+                    "y_pos": 180,
+                    "z_pos": 374
+                },
+                {
+                    "x_pos": 2628,
+                    "y_pos": 180,
+                    "z_pos": 200
+                },
+                {
+                    "x_pos": 2634,
+                    "y_pos": 180,
+                    "z_pos": 548
+                },
+                {
+                    "x_pos": 1821,
+                    "y_pos": 180,
+                    "z_pos": 562
+                },
+                {
+                    "x_pos": 1812,
+                    "y_pos": 180,
+                    "z_pos": 193
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1295,
+                    "y_pos": 100,
+                    "z_pos": 717
+                },
+                {
+                    "x_pos": 853,
+                    "y_pos": 100,
+                    "z_pos": 756
+                },
+                {
+                    "x_pos": 857,
+                    "y_pos": 100,
+                    "z_pos": 670
+                },
+                {
+                    "x_pos": 1737,
+                    "y_pos": 100,
+                    "z_pos": 681
+                },
+                {
+                    "x_pos": 1724,
+                    "y_pos": 100,
+                    "z_pos": 754
+                },
+                {
+                    "x_pos": 1247,
+                    "y_pos": 100,
+                    "z_pos": 765
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 3,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 0,
+            "y_rot": 1028,
+            "x_pos": 210,
+            "y_pos": 190,
+            "z_pos": 515,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 60,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 101,
+            "enemy_val_name": "Kritter-in-a-Sheet",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 177,
+            "y_pos": 190,
+            "z_pos": 197,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 101,
+            "enemy_val_name": "Kritter-in-a-Sheet",
+            "unk1": 125,
+            "y_rot": 1911,
+            "x_pos": 375,
+            "y_pos": 190,
+            "z_pos": 547,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 125,
+            "y_rot": 1731,
+            "x_pos": 305,
+            "y_pos": 190,
+            "z_pos": 571,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 3,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 3,
+            "enemy_val_name": "Book",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 2200,
+            "y_pos": 199,
+            "z_pos": 258,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 3,
+            "enemy_val_name": "Book",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 2490,
+            "y_pos": 180,
+            "z_pos": 247,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 7,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 3,
+            "enemy_val_name": "Book",
+            "unk1": 124,
+            "y_rot": 2001,
+            "x_pos": 2580,
+            "y_pos": 180,
+            "z_pos": 517,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 8,
+            "initial_respawn_timer": 0,
+            "unk15": 218
+        },
+        {
+            "enemy_val": 3,
+            "enemy_val_name": "Book",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 2348,
+            "y_pos": 180,
+            "z_pos": 255,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 9,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 3,
+            "enemy_val_name": "Book",
+            "unk1": 124,
+            "y_rot": 2055,
+            "x_pos": 2427,
+            "y_pos": 180,
+            "z_pos": 491,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 10,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 3,
+            "enemy_val_name": "Book",
+            "unk1": 124,
+            "y_rot": 2055,
+            "x_pos": 2278,
+            "y_pos": 180,
+            "z_pos": 486,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 11,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 99,
+            "enemy_val_name": "Bat",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 977,
+            "y_pos": 178,
+            "z_pos": 701,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 90,
+            "max_aggro_speed": 60,
+            "fence_id": 3,
+            "scale": 70,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 12,
+            "initial_respawn_timer": 50,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 99,
+            "enemy_val_name": "Bat",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 1371,
+            "y_pos": 174,
+            "z_pos": 729,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 80,
+            "max_aggro_speed": 60,
+            "fence_id": 3,
+            "scale": 73,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 13,
+            "initial_respawn_timer": 50,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 99,
+            "enemy_val_name": "Bat",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 1663,
+            "y_pos": 175,
+            "z_pos": 732,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 85,
+            "max_aggro_speed": 60,
+            "fence_id": 3,
+            "scale": 76,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 14,
+            "initial_respawn_timer": 50,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 99,
+            "enemy_val_name": "Bat",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 1234,
+            "y_pos": 194,
+            "z_pos": 725,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 100,
+            "max_aggro_speed": 60,
+            "fence_id": 3,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 15,
+            "initial_respawn_timer": 60,
+            "unk15": 0
+        }
+    ]
+}

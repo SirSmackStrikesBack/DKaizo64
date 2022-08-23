@@ -1,0 +1,369 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 773,
+                    "y_pos": 0,
+                    "z_pos": 772
+                },
+                {
+                    "x_pos": 1035,
+                    "y_pos": 0,
+                    "z_pos": 266
+                },
+                {
+                    "x_pos": 1276,
+                    "y_pos": 0,
+                    "z_pos": 519
+                },
+                {
+                    "x_pos": 1276,
+                    "y_pos": 0,
+                    "z_pos": 1016
+                },
+                {
+                    "x_pos": 1038,
+                    "y_pos": 0,
+                    "z_pos": 1271
+                },
+                {
+                    "x_pos": 543,
+                    "y_pos": 0,
+                    "z_pos": 1286
+                },
+                {
+                    "x_pos": 279,
+                    "y_pos": 0,
+                    "z_pos": 1019
+                },
+                {
+                    "x_pos": 271,
+                    "y_pos": 0,
+                    "z_pos": 516
+                },
+                {
+                    "x_pos": 519,
+                    "y_pos": 0,
+                    "z_pos": 259
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 725,
+                    "y_pos": 0,
+                    "z_pos": 939,
+                    "unk6": "03 14 14 00"
+                },
+                {
+                    "x_pos": 965,
+                    "y_pos": 0,
+                    "z_pos": 894,
+                    "unk6": "03 14 14 00"
+                },
+                {
+                    "x_pos": 904,
+                    "y_pos": 0,
+                    "z_pos": 602,
+                    "unk6": "03 14 14 00"
+                },
+                {
+                    "x_pos": 591,
+                    "y_pos": 0,
+                    "z_pos": 639,
+                    "unk6": "03 14 14 00"
+                },
+                {
+                    "x_pos": 473,
+                    "y_pos": 0,
+                    "z_pos": 956,
+                    "unk6": "03 14 14 00"
+                },
+                {
+                    "x_pos": 442,
+                    "y_pos": 0,
+                    "z_pos": 554,
+                    "unk6": "03 14 14 00"
+                },
+                {
+                    "x_pos": 783,
+                    "y_pos": 0,
+                    "z_pos": 386,
+                    "unk6": "03 14 14 00"
+                },
+                {
+                    "x_pos": 1097,
+                    "y_pos": 0,
+                    "z_pos": 499,
+                    "unk6": "03 14 14 00"
+                },
+                {
+                    "x_pos": 1148,
+                    "y_pos": 0,
+                    "z_pos": 802,
+                    "unk6": "03 14 14 00"
+                },
+                {
+                    "x_pos": 1033,
+                    "y_pos": 0,
+                    "z_pos": 1088,
+                    "unk6": "03 14 14 00"
+                },
+                {
+                    "x_pos": 700,
+                    "y_pos": 0,
+                    "z_pos": 1159,
+                    "unk6": "03 14 14 00"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 1092,
+            "y_pos": 0,
+            "z_pos": 740,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 85,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 827,
+            "y_pos": 0,
+            "z_pos": 465,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 85,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 1067,
+            "y_pos": 0,
+            "z_pos": 914,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 85,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 875,
+            "y_pos": 0,
+            "z_pos": 1073,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 85,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 682,
+            "y_pos": 0,
+            "z_pos": 1073,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 85,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 488,
+            "y_pos": 0,
+            "z_pos": 882,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 85,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 6,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 485,
+            "y_pos": 0,
+            "z_pos": 640,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 85,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 7,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 654,
+            "y_pos": 0,
+            "z_pos": 444,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 85,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 8,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 896,
+            "y_pos": 0,
+            "z_pos": 635,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 85,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 9,
+            "initial_respawn_timer": 1,
+            "unk15": 248
+        },
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 843,
+            "y_pos": 0,
+            "z_pos": 907,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 85,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 10,
+            "initial_respawn_timer": 1,
+            "unk15": 4
+        },
+        {
+            "enemy_val": 0,
+            "enemy_val_name": "Beaver",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 624,
+            "y_pos": 0,
+            "z_pos": 668,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 85,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 11,
+            "initial_respawn_timer": 1,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 33,
+            "enemy_val_name": "Beaver (Gold)",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 782,
+            "y_pos": 0,
+            "z_pos": 724,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 50,
+            "max_aggro_speed": 80,
+            "fence_id": 1,
+            "scale": 95,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 12,
+            "initial_respawn_timer": 14,
+            "unk15": 0
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 378,
+                    "y_pos": 85,
+                    "z_pos": 422
+                },
+                {
+                    "x_pos": 596,
+                    "y_pos": 0,
+                    "z_pos": 784
+                },
+                {
+                    "x_pos": 753,
+                    "y_pos": -1,
+                    "z_pos": 503
+                },
+                {
+                    "x_pos": 588,
+                    "y_pos": 1,
+                    "z_pos": 222
+                },
+                {
+                    "x_pos": 302,
+                    "y_pos": 0,
+                    "z_pos": 60
+                },
+                {
+                    "x_pos": 3,
+                    "y_pos": 0,
+                    "z_pos": 219
+                },
+                {
+                    "x_pos": 232,
+                    "y_pos": 85,
+                    "z_pos": 576
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 481,
+                    "y_pos": 120,
+                    "z_pos": 375,
+                    "unk6": "04 0A 14 00"
+                },
+                {
+                    "x_pos": 255,
+                    "y_pos": 120,
+                    "z_pos": 377,
+                    "unk6": "04 0A 14 00"
+                },
+                {
+                    "x_pos": 451,
+                    "y_pos": 95,
+                    "z_pos": 465,
+                    "unk6": "04 0A 14 00"
+                },
+                {
+                    "x_pos": 387,
+                    "y_pos": 121,
+                    "z_pos": 465,
+                    "unk6": "04 0A 14 F0"
+                },
+                {
+                    "x_pos": 387,
+                    "y_pos": 104,
+                    "z_pos": 453,
+                    "unk6": "04 05 14 00"
+                },
+                {
+                    "x_pos": 342,
+                    "y_pos": 85,
+                    "z_pos": 478,
+                    "unk6": "04 09 14 41"
+                },
+                {
+                    "x_pos": 438,
+                    "y_pos": 106,
+                    "z_pos": 491,
+                    "unk6": "04 0A 14 00"
+                },
+                {
+                    "x_pos": 488,
+                    "y_pos": 110,
+                    "z_pos": 506,
+                    "unk6": "04 0C 14 00"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 1029,
+            "x_pos": 345,
+            "y_pos": 85,
+            "z_pos": 478,
+            "cutscene_model": 25,
+            "cutscene_model_name": "DK",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 125,
+            "y_rot": 0,
+            "x_pos": 246,
+            "y_pos": 112,
+            "z_pos": 385,
+            "cutscene_model": 19,
+            "cutscene_model_name": "Squawks",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

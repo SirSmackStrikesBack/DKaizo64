@@ -1,0 +1,69 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 193,
+                    "y_pos": 33,
+                    "z_pos": 224
+                },
+                {
+                    "x_pos": 199,
+                    "y_pos": 2,
+                    "z_pos": 351
+                },
+                {
+                    "x_pos": 329,
+                    "y_pos": 2,
+                    "z_pos": 244
+                },
+                {
+                    "x_pos": 210,
+                    "y_pos": 2,
+                    "z_pos": 98
+                },
+                {
+                    "x_pos": 58,
+                    "y_pos": 2,
+                    "z_pos": 246
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 197,
+                    "y_pos": 17,
+                    "z_pos": 184,
+                    "unk6": "04 0E 00 4C"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 11,
+            "enemy_val_name": "Cranky",
+            "unk1": 199,
+            "y_rot": 2057,
+            "x_pos": 199,
+            "y_pos": 17,
+            "z_pos": 267,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 115,
+            "aggro": 0,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

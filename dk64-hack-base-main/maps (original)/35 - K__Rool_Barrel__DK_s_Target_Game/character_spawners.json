@@ -1,0 +1,61 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 554,
+                    "y_pos": 0,
+                    "z_pos": 561
+                },
+                {
+                    "x_pos": 535,
+                    "y_pos": 0,
+                    "z_pos": 531
+                },
+                {
+                    "x_pos": 572,
+                    "y_pos": 0,
+                    "z_pos": 522
+                },
+                {
+                    "x_pos": 577,
+                    "y_pos": 0,
+                    "z_pos": 600
+                },
+                {
+                    "x_pos": 531,
+                    "y_pos": 0,
+                    "z_pos": 591
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 76,
+            "enemy_val_name": "Minigame Controller",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 556,
+            "y_pos": 0,
+            "z_pos": 566,
+            "cutscene_model": 3,
+            "unkB": 30,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 7,
+            "unk15": 0
+        }
+    ]
+}

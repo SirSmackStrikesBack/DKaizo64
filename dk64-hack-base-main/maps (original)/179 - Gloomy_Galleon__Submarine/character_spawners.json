@@ -1,0 +1,191 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 833,
+                    "y_pos": 0,
+                    "z_pos": 1014
+                },
+                {
+                    "x_pos": 896,
+                    "y_pos": 0,
+                    "z_pos": 1092
+                },
+                {
+                    "x_pos": 773,
+                    "y_pos": 0,
+                    "z_pos": 1090
+                },
+                {
+                    "x_pos": 755,
+                    "y_pos": 0,
+                    "z_pos": 937
+                },
+                {
+                    "x_pos": 911,
+                    "y_pos": 0,
+                    "z_pos": 991
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 535,
+                    "y_pos": 87,
+                    "z_pos": 753
+                },
+                {
+                    "x_pos": 415,
+                    "y_pos": 0,
+                    "z_pos": 919
+                },
+                {
+                    "x_pos": 410,
+                    "y_pos": 0,
+                    "z_pos": 555
+                },
+                {
+                    "x_pos": 661,
+                    "y_pos": 0,
+                    "z_pos": 545
+                },
+                {
+                    "x_pos": 653,
+                    "y_pos": 0,
+                    "z_pos": 961
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 911,
+                    "y_pos": 0,
+                    "z_pos": 505
+                },
+                {
+                    "x_pos": 784,
+                    "y_pos": 0,
+                    "z_pos": 454
+                },
+                {
+                    "x_pos": 1038,
+                    "y_pos": 0,
+                    "z_pos": 451
+                },
+                {
+                    "x_pos": 1031,
+                    "y_pos": 0,
+                    "z_pos": 560
+                },
+                {
+                    "x_pos": 821,
+                    "y_pos": 0,
+                    "z_pos": 559
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 3,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 102,
+            "enemy_val_name": "Puftup",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 843,
+            "y_pos": 86,
+            "z_pos": 1022,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 70,
+            "aggro": 0,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 102,
+            "enemy_val_name": "Puftup",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 604,
+            "y_pos": 122,
+            "z_pos": 590,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 72,
+            "aggro": 0,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 102,
+            "enemy_val_name": "Puftup",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 612,
+            "y_pos": 122,
+            "z_pos": 912,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 0,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 102,
+            "enemy_val_name": "Puftup",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 941,
+            "y_pos": 116,
+            "z_pos": 489,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 3,
+            "scale": 88,
+            "aggro": 0,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 6,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

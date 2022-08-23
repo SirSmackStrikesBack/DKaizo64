@@ -1,0 +1,211 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 776,
+                    "y_pos": 160,
+                    "z_pos": 1599
+                },
+                {
+                    "x_pos": 872,
+                    "y_pos": 160,
+                    "z_pos": 1698
+                },
+                {
+                    "x_pos": 882,
+                    "y_pos": 160,
+                    "z_pos": 1772
+                },
+                {
+                    "x_pos": 716,
+                    "y_pos": 160,
+                    "z_pos": 1750
+                },
+                {
+                    "x_pos": 687,
+                    "y_pos": 160,
+                    "z_pos": 1607
+                },
+                {
+                    "x_pos": 670,
+                    "y_pos": 160,
+                    "z_pos": 1439
+                },
+                {
+                    "x_pos": 776,
+                    "y_pos": 160,
+                    "z_pos": 1426
+                },
+                {
+                    "x_pos": 798,
+                    "y_pos": 160,
+                    "z_pos": 1657
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 948,
+                    "y_pos": 160,
+                    "z_pos": 586
+                },
+                {
+                    "x_pos": 680,
+                    "y_pos": 160,
+                    "z_pos": 683
+                },
+                {
+                    "x_pos": 693,
+                    "y_pos": 160,
+                    "z_pos": 541
+                },
+                {
+                    "x_pos": 1134,
+                    "y_pos": 160,
+                    "z_pos": 489
+                },
+                {
+                    "x_pos": 1217,
+                    "y_pos": 160,
+                    "z_pos": 520
+                },
+                {
+                    "x_pos": 1157,
+                    "y_pos": 160,
+                    "z_pos": 621
+                },
+                {
+                    "x_pos": 906,
+                    "y_pos": 160,
+                    "z_pos": 633
+                },
+                {
+                    "x_pos": 794,
+                    "y_pos": 160,
+                    "z_pos": 638
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1647,
+                    "y_pos": 80,
+                    "z_pos": 273
+                },
+                {
+                    "x_pos": 1751,
+                    "y_pos": 80,
+                    "z_pos": 482
+                },
+                {
+                    "x_pos": 1637,
+                    "y_pos": 80,
+                    "z_pos": 474
+                },
+                {
+                    "x_pos": 1631,
+                    "y_pos": 80,
+                    "z_pos": 181
+                },
+                {
+                    "x_pos": 1546,
+                    "y_pos": 80,
+                    "z_pos": 178
+                },
+                {
+                    "x_pos": 1544,
+                    "y_pos": 80,
+                    "z_pos": 65
+                },
+                {
+                    "x_pos": 1738,
+                    "y_pos": 80,
+                    "z_pos": 110
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 3,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 786,
+            "y_pos": 160,
+            "z_pos": 1696,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 75,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 20,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 829,
+            "y_pos": 160,
+            "z_pos": 560,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 75,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 30,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 1679,
+            "y_pos": 80,
+            "z_pos": 286,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 3,
+            "scale": 80,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 30,
+            "unk15": 0
+        }
+    ]
+}

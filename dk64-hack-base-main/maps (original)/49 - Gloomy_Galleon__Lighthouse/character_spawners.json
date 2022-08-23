@@ -1,0 +1,151 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 238,
+                    "y_pos": 0,
+                    "z_pos": 339
+                },
+                {
+                    "x_pos": 269,
+                    "y_pos": 0,
+                    "z_pos": 505
+                },
+                {
+                    "x_pos": 134,
+                    "y_pos": 1,
+                    "z_pos": 498
+                },
+                {
+                    "x_pos": 136,
+                    "y_pos": 0,
+                    "z_pos": 328
+                },
+                {
+                    "x_pos": 318,
+                    "y_pos": 0,
+                    "z_pos": 174
+                },
+                {
+                    "x_pos": 343,
+                    "y_pos": 0,
+                    "z_pos": 301
+                },
+                {
+                    "x_pos": 271,
+                    "y_pos": 0,
+                    "z_pos": 375
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 496,
+                    "y_pos": 200,
+                    "z_pos": 588
+                },
+                {
+                    "x_pos": 770,
+                    "y_pos": 0,
+                    "z_pos": 585
+                },
+                {
+                    "x_pos": 599,
+                    "y_pos": 0,
+                    "z_pos": 771
+                },
+                {
+                    "x_pos": 363,
+                    "y_pos": 0,
+                    "z_pos": 785
+                },
+                {
+                    "x_pos": 222,
+                    "y_pos": 0,
+                    "z_pos": 702
+                },
+                {
+                    "x_pos": 346,
+                    "y_pos": 0,
+                    "z_pos": 624
+                },
+                {
+                    "x_pos": 551,
+                    "y_pos": 0,
+                    "z_pos": 649
+                },
+                {
+                    "x_pos": 611,
+                    "y_pos": 0,
+                    "z_pos": 575
+                },
+                {
+                    "x_pos": 641,
+                    "y_pos": 0,
+                    "z_pos": 439
+                },
+                {
+                    "x_pos": 759,
+                    "y_pos": 0,
+                    "z_pos": 391
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 9,
+            "enemy_val_name": "Klump",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 208,
+            "y_pos": 0,
+            "z_pos": 421,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 1,
+            "unk15": 249
+        },
+        {
+            "enemy_val": 9,
+            "enemy_val_name": "Klump",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 608,
+            "y_pos": 0,
+            "z_pos": 645,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 1,
+            "unk15": 249
+        }
+    ]
+}

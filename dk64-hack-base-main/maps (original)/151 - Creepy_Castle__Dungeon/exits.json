@@ -1,0 +1,42 @@
+[
+    {
+        "x_pos": 118,
+        "y_pos": 200,
+        "z_pos": 2737,
+        "angle": 31871,
+        "has_autowalk": 0,
+        "size": 0
+    },
+    {
+        "x_pos": 1114,
+        "y_pos": 300,
+        "z_pos": 2141,
+        "angle": -16577,
+        "has_autowalk": 1,
+        "size": 0
+    },
+    {
+        "x_pos": 551,
+        "y_pos": 150,
+        "z_pos": 338,
+        "angle": -510,
+        "has_autowalk": 0,
+        "size": 0
+    },
+    {
+        "x_pos": 1023,
+        "y_pos": 300,
+        "z_pos": 1939,
+        "angle": -644,
+        "has_autowalk": 1,
+        "size": 0
+    },
+    {
+        "x_pos": 290,
+        "y_pos": 200,
+        "z_pos": 1498,
+        "angle": -16596,
+        "has_autowalk": 1,
+        "size": 0
+    }
+]

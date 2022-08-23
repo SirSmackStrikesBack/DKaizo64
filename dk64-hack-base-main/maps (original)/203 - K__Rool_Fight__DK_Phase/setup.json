@@ -1,0 +1,172 @@
+{
+    "model2": [
+        {
+            "x_pos": 987.4669799804688,
+            "y_pos": 50.0,
+            "z_pos": 965.78857421875,
+            "scale": 1.0,
+            "unk10": "00 00 02 80 80 3C B1 C0",
+            "angle18": 0.0,
+            "angle1C": 265.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 630,
+            "behaviour_name": "Boxing Ring Corner (Green)",
+            "unk2A": "00 00 00 01 00 00"
+        },
+        {
+            "x_pos": 590.0889892578125,
+            "y_pos": 50.0,
+            "z_pos": 967.194580078125,
+            "scale": 1.0,
+            "unk10": "FF FB 00 00 36 C0 00 00",
+            "angle18": 0.0,
+            "angle1C": 178.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 631,
+            "behaviour_name": "Boxing Ring Corner (Blue)",
+            "unk2A": "00 01 00 01 00 00"
+        },
+        {
+            "x_pos": 588.7379760742188,
+            "y_pos": 50.0,
+            "z_pos": 568.9457397460938,
+            "scale": 1.0,
+            "unk10": "FF FB F7 AB 0B 40 04 00",
+            "angle18": 0.0,
+            "angle1C": 92.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 632,
+            "behaviour_name": "Boxing Ring Corner (Yellow)",
+            "unk2A": "00 02 00 01 00 00"
+        },
+        {
+            "x_pos": 986.502197265625,
+            "y_pos": 50.0,
+            "z_pos": 568.0921020507812,
+            "scale": 1.0,
+            "unk10": "FF FB 00 00 21 80 04 00",
+            "angle18": 0.0,
+            "angle1C": 1.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 629,
+            "behaviour_name": "Boxing Ring Corner (Red)",
+            "unk2A": "00 03 00 01 00 00"
+        },
+        {
+            "x_pos": 1024.944091796875,
+            "y_pos": 0.0,
+            "z_pos": 1243.8082275390625,
+            "scale": 0.04000020772218704,
+            "unk10": "FF FB F4 F5 21 80 00 00",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 0,
+            "behaviour_name": "Nothing",
+            "unk2A": "00 04 00 01 00 00"
+        },
+        {
+            "x_pos": 880.6474609375,
+            "y_pos": 150.58956909179688,
+            "z_pos": 861.37939453125,
+            "scale": 2.0,
+            "unk10": "FF FB 63 EC 15 00 00 00",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": -200.0,
+            "behaviour": 637,
+            "behaviour_name": "Spotlight",
+            "unk2A": "00 08 00 01 1A 00"
+        },
+        {
+            "x_pos": 695.8031616210938,
+            "y_pos": 150.59701538085938,
+            "z_pos": 674.6430053710938,
+            "scale": 2.0,
+            "unk10": "FF FB 00 00 0E 40 04 00",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": -200.0,
+            "behaviour": 637,
+            "behaviour_name": "Spotlight",
+            "unk2A": "00 06 00 01 1A 00"
+        },
+        {
+            "x_pos": 695.502685546875,
+            "y_pos": 150.58578491210938,
+            "z_pos": 861.2715454101562,
+            "scale": 2.0,
+            "unk10": "FF FB A0 A1 45 40 04 00",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": -200.0,
+            "behaviour": 637,
+            "behaviour_name": "Spotlight",
+            "unk2A": "00 07 00 01 1A 00"
+        },
+        {
+            "x_pos": 880.0805053710938,
+            "y_pos": 150.57498168945312,
+            "z_pos": 674.2736206054688,
+            "scale": 2.0199997425079346,
+            "unk10": "FF FB 03 CA 45 40 00 00",
+            "angle18": 0.0,
+            "angle1C": 358.0,
+            "angle20": 0.0,
+            "unk24": -200.0,
+            "behaviour": 637,
+            "behaviour_name": "Spotlight",
+            "unk2A": "00 05 00 01 1A 00"
+        }
+    ],
+    "actors": [
+        {
+            "x_pos": 956.7053833007812,
+            "y_pos": 155.0,
+            "z_pos": 940.02392578125,
+            "scale": 1.0,
+            "unk10": "00 00 00 28 00 00 00 28 00 00 00 04 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0A 06",
+            "behaviour": 1,
+            "behaviour_name": "Cannon Barrel",
+            "unk34": "00 04 27 FC"
+        },
+        {
+            "x_pos": 965.5560913085938,
+            "y_pos": 155.0,
+            "z_pos": 592.0830078125,
+            "scale": 1.0,
+            "unk10": "00 00 00 28 00 00 00 28 00 00 00 04 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0E 02",
+            "behaviour": 1,
+            "behaviour_name": "Cannon Barrel",
+            "unk34": "00 03 27 FC"
+        },
+        {
+            "x_pos": 602.4412231445312,
+            "y_pos": 155.0,
+            "z_pos": 580.8390502929688,
+            "scale": 1.0,
+            "unk10": "00 00 00 28 00 00 00 28 00 00 00 04 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 FE",
+            "behaviour": 1,
+            "behaviour_name": "Cannon Barrel",
+            "unk34": "00 02 27 FC"
+        },
+        {
+            "x_pos": 622.9403686523438,
+            "y_pos": 155.0,
+            "z_pos": 938.9338989257812,
+            "scale": 1.0,
+            "unk10": "00 00 00 28 00 00 00 28 00 00 00 04 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 06 1C",
+            "behaviour": 1,
+            "behaviour_name": "Cannon Barrel",
+            "unk34": "00 01 27 FC"
+        }
+    ]
+}

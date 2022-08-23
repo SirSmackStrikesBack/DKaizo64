@@ -1,0 +1,256 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1294,
+                    "y_pos": 325,
+                    "z_pos": 1188
+                },
+                {
+                    "x_pos": 1221,
+                    "y_pos": 325,
+                    "z_pos": 1127
+                },
+                {
+                    "x_pos": 1367,
+                    "y_pos": 325,
+                    "z_pos": 1138
+                },
+                {
+                    "x_pos": 1269,
+                    "y_pos": 325,
+                    "z_pos": 1250
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1989,
+                    "y_pos": 625,
+                    "z_pos": 1720
+                },
+                {
+                    "x_pos": 2044,
+                    "y_pos": 625,
+                    "z_pos": 1784
+                },
+                {
+                    "x_pos": 2013,
+                    "y_pos": 625,
+                    "z_pos": 1651
+                },
+                {
+                    "x_pos": 1935,
+                    "y_pos": 625,
+                    "z_pos": 1789
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1964,
+                    "y_pos": 925,
+                    "z_pos": 657
+                },
+                {
+                    "x_pos": 2003,
+                    "y_pos": 925,
+                    "z_pos": 633
+                },
+                {
+                    "x_pos": 1935,
+                    "y_pos": 925,
+                    "z_pos": 616
+                },
+                {
+                    "x_pos": 1925,
+                    "y_pos": 925,
+                    "z_pos": 699
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 3,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 521,
+                    "y_pos": 925,
+                    "z_pos": 1716
+                },
+                {
+                    "x_pos": 459,
+                    "y_pos": 925,
+                    "z_pos": 1777
+                },
+                {
+                    "x_pos": 584,
+                    "y_pos": 925,
+                    "z_pos": 1800
+                },
+                {
+                    "x_pos": 516,
+                    "y_pos": 925,
+                    "z_pos": 1632
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 4,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 545,
+                    "y_pos": 625,
+                    "z_pos": 614
+                },
+                {
+                    "x_pos": 471,
+                    "y_pos": 625,
+                    "z_pos": 541
+                },
+                {
+                    "x_pos": 462,
+                    "y_pos": 625,
+                    "z_pos": 687
+                },
+                {
+                    "x_pos": 629,
+                    "y_pos": 625,
+                    "z_pos": 604
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 5,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 1,
+            "enemy_val_name": "Giant Clam",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 1283,
+            "y_pos": 325,
+            "z_pos": 1168,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 236,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 1,
+            "enemy_val_name": "Giant Clam",
+            "unk1": 0,
+            "y_rot": 1416,
+            "x_pos": 546,
+            "y_pos": 925,
+            "z_pos": 1724,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 4,
+            "scale": 236,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 1,
+            "enemy_val_name": "Giant Clam",
+            "unk1": 0,
+            "y_rot": 527,
+            "x_pos": 518,
+            "y_pos": 625,
+            "z_pos": 629,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 5,
+            "scale": 240,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 1,
+            "enemy_val_name": "Giant Clam",
+            "unk1": 0,
+            "y_rot": 3544,
+            "x_pos": 1960,
+            "y_pos": 925,
+            "z_pos": 641,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 3,
+            "scale": 236,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 1,
+            "enemy_val_name": "Giant Clam",
+            "unk1": 125,
+            "y_rot": 2621,
+            "x_pos": 1998,
+            "y_pos": 625,
+            "z_pos": 1739,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 244,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

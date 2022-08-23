@@ -1,0 +1,34 @@
+[
+    {
+        "x_pos": 598,
+        "y_pos": 21,
+        "z_pos": 786,
+        "angle": -645,
+        "has_autowalk": 1,
+        "size": 0
+    },
+    {
+        "x_pos": 707,
+        "y_pos": 99,
+        "z_pos": 670,
+        "angle": -1413,
+        "has_autowalk": 0,
+        "size": 0
+    },
+    {
+        "x_pos": 601,
+        "y_pos": 100,
+        "z_pos": 720,
+        "angle": 127,
+        "has_autowalk": 0,
+        "size": 0
+    },
+    {
+        "x_pos": 318,
+        "y_pos": 10,
+        "z_pos": 959,
+        "angle": 255,
+        "has_autowalk": 0,
+        "size": 0
+    }
+]

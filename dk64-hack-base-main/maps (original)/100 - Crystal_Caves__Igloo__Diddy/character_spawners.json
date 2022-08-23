@@ -1,0 +1,106 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 279,
+                    "y_pos": 0,
+                    "z_pos": 298
+                },
+                {
+                    "x_pos": 93,
+                    "y_pos": 0,
+                    "z_pos": 262
+                },
+                {
+                    "x_pos": 94,
+                    "y_pos": 0,
+                    "z_pos": 376
+                },
+                {
+                    "x_pos": 149,
+                    "y_pos": 0,
+                    "z_pos": 449
+                },
+                {
+                    "x_pos": 243,
+                    "y_pos": 0,
+                    "z_pos": 489
+                },
+                {
+                    "x_pos": 337,
+                    "y_pos": 0,
+                    "z_pos": 481
+                },
+                {
+                    "x_pos": 424,
+                    "y_pos": 0,
+                    "z_pos": 414
+                },
+                {
+                    "x_pos": 465,
+                    "y_pos": 0,
+                    "z_pos": 326
+                },
+                {
+                    "x_pos": 449,
+                    "y_pos": 0,
+                    "z_pos": 227
+                },
+                {
+                    "x_pos": 390,
+                    "y_pos": 0,
+                    "z_pos": 151
+                },
+                {
+                    "x_pos": 296,
+                    "y_pos": 0,
+                    "z_pos": 108
+                },
+                {
+                    "x_pos": 199,
+                    "y_pos": 0,
+                    "z_pos": 121
+                },
+                {
+                    "x_pos": 124,
+                    "y_pos": 0,
+                    "z_pos": 173
+                },
+                {
+                    "x_pos": 115,
+                    "y_pos": 0,
+                    "z_pos": 216
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 32,
+            "enemy_val_name": "GETOUT Controller",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 242,
+            "y_pos": 78,
+            "z_pos": 260,
+            "cutscene_model": 0,
+            "unkB": 1,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

@@ -1,0 +1,317 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 798,
+                    "y_pos": 0,
+                    "z_pos": 1074
+                },
+                {
+                    "x_pos": 973,
+                    "y_pos": 162,
+                    "z_pos": 1743
+                },
+                {
+                    "x_pos": 1153,
+                    "y_pos": 0,
+                    "z_pos": 416
+                },
+                {
+                    "x_pos": 443,
+                    "y_pos": 0,
+                    "z_pos": 404
+                },
+                {
+                    "x_pos": 600,
+                    "y_pos": 162,
+                    "z_pos": 1744
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 787,
+                    "y_pos": 50,
+                    "z_pos": 761,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 647,
+                    "y_pos": 50,
+                    "z_pos": 625,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 937,
+                    "y_pos": 50,
+                    "z_pos": 622,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 933,
+                    "y_pos": 50,
+                    "z_pos": 909,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 645,
+                    "y_pos": 50,
+                    "z_pos": 911,
+                    "unk6": "04 14 14 00"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 788,
+                    "y_pos": 368,
+                    "z_pos": 767
+                },
+                {
+                    "x_pos": 595,
+                    "y_pos": 50,
+                    "z_pos": 574
+                },
+                {
+                    "x_pos": 982,
+                    "y_pos": 50,
+                    "z_pos": 576
+                },
+                {
+                    "x_pos": 981,
+                    "y_pos": 50,
+                    "z_pos": 961
+                },
+                {
+                    "x_pos": 595,
+                    "y_pos": 50,
+                    "z_pos": 959
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 788,
+                    "y_pos": 50,
+                    "z_pos": 760,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 647,
+                    "y_pos": 50,
+                    "z_pos": 625,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 936,
+                    "y_pos": 50,
+                    "z_pos": 622,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 934,
+                    "y_pos": 50,
+                    "z_pos": 909,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 645,
+                    "y_pos": 50,
+                    "z_pos": 911,
+                    "unk6": "04 14 14 00"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 107,
+            "enemy_val_name": "K. Rool (Lanky Phase)",
+            "unk1": 124,
+            "y_rot": 1471,
+            "x_pos": 654,
+            "y_pos": 50,
+            "z_pos": 900,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 25,
+            "max_aggro_speed": 50,
+            "fence_id": 2,
+            "scale": 200,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0,
+            "extra_data": [
+                256,
+                512,
+                768,
+                1024,
+                256,
+                768,
+                512,
+                1024
+            ]
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 786,
+            "y_pos": 50,
+            "z_pos": 833,
+            "cutscene_model": 44,
+            "cutscene_model_name": "K. Rool",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 200,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 786,
+            "y_pos": 50,
+            "z_pos": 833,
+            "cutscene_model": 52,
+            "cutscene_model_name": "Light (K. Rool fight)",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 200,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 3575,
+            "x_pos": 965,
+            "y_pos": 50,
+            "z_pos": 591,
+            "cutscene_model": 23,
+            "cutscene_model_name": "Lanky",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 806,
+            "y_pos": 50,
+            "z_pos": 764,
+            "cutscene_model": 54,
+            "cutscene_model_name": "Microphone",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 2048,
+            "x_pos": 789,
+            "y_pos": 162,
+            "z_pos": 1560,
+            "cutscene_model": 18,
+            "cutscene_model_name": "Kremling",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 100,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 6,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 2048,
+            "x_pos": 789,
+            "y_pos": 162,
+            "z_pos": 1560,
+            "cutscene_model": 18,
+            "cutscene_model_name": "Kremling",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 100,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 7,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 124,
+            "y_rot": 2048,
+            "x_pos": 789,
+            "y_pos": 213,
+            "z_pos": 1538,
+            "cutscene_model": 55,
+            "cutscene_model_name": "Desk (K. Rool)",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 100,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 8,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

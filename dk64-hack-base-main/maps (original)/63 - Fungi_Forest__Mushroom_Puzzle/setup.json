@@ -1,0 +1,138 @@
+{
+    "model2": [
+        {
+            "x_pos": 218.00209045410156,
+            "y_pos": 5.5,
+            "z_pos": 488.033447265625,
+            "scale": 0.5800004005432129,
+            "unk10": "B7 35 E0 01 8A 51 A2 3E",
+            "angle18": 0.0,
+            "angle1C": 67.0,
+            "angle20": 0.0,
+            "unk24": 5.0,
+            "behaviour": 447,
+            "behaviour_name": "Mushroom Puzzle Instructions",
+            "unk2A": "00 00 00 01 02 00"
+        },
+        {
+            "x_pos": 210.53871154785156,
+            "y_pos": 0.5,
+            "z_pos": 231.17637634277344,
+            "scale": 0.24000029265880585,
+            "unk10": "8E BD B8 5A EC F6 15 FD",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 442,
+            "behaviour_name": "Mushroom (Yellow)",
+            "unk2A": "00 01 00 01 00 00"
+        },
+        {
+            "x_pos": 332.4046936035156,
+            "y_pos": 0.5,
+            "z_pos": 257.0180358886719,
+            "scale": 0.24000032246112823,
+            "unk10": "00 00 01 80 80 40 79 10",
+            "angle18": 0.0,
+            "angle1C": 108.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 446,
+            "behaviour_name": "Mushroom (Red)",
+            "unk2A": "00 02 00 01 00 00"
+        },
+        {
+            "x_pos": 330.760986328125,
+            "y_pos": 0.5,
+            "z_pos": 387.0166931152344,
+            "scale": 0.24000029265880585,
+            "unk10": "83 E4 00 00 00 00 FF FF",
+            "angle18": 0.0,
+            "angle1C": 60.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 445,
+            "behaviour_name": "Mushroom (Green)",
+            "unk2A": "00 03 00 01 00 00"
+        },
+        {
+            "x_pos": 211.73321533203125,
+            "y_pos": 0.5,
+            "z_pos": 364.3182678222656,
+            "scale": 0.24000035226345062,
+            "unk10": "FF FF 00 00 00 D3 00 00",
+            "angle18": 0.0,
+            "angle1C": 244.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 444,
+            "behaviour_name": "Mushroom (Blue)",
+            "unk2A": "00 04 00 01 00 00"
+        },
+        {
+            "x_pos": 178.98797607421875,
+            "y_pos": 0.5,
+            "z_pos": 299.9468688964844,
+            "scale": 0.24000035226345062,
+            "unk10": "FF FF 00 00 00 00 00 00",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 443,
+            "behaviour_name": "Mushroom (Purple)",
+            "unk2A": "00 05 00 01 00 00"
+        },
+        {
+            "x_pos": 79.58219909667969,
+            "y_pos": 0.3333333432674408,
+            "z_pos": 228.8684539794922,
+            "scale": 1.0,
+            "unk10": "B0 E5 00 00 67 9A 80 00",
+            "angle18": 0.0,
+            "angle1C": 69.0,
+            "angle20": 0.0,
+            "unk24": 0.0,
+            "behaviour": 441,
+            "behaviour_name": "Door",
+            "unk2A": "00 06 00 01 00 00"
+        },
+        {
+            "x_pos": 224.94000244140625,
+            "y_pos": 60.0,
+            "z_pos": 226.0018768310547,
+            "scale": 1.0,
+            "unk10": "22 4D 00 00 00 00 FF FF",
+            "angle18": 0.0,
+            "angle1C": 0.0,
+            "angle20": 0.0,
+            "unk24": 60.0,
+            "behaviour": 517,
+            "behaviour_name": "CB Bunch (Lanky)",
+            "unk2A": "00 07 00 02 00 01"
+        }
+    ],
+    "actors": [
+        {
+            "x_pos": 265.5111083984375,
+            "y_pos": 164.5,
+            "z_pos": 302.7027587890625,
+            "scale": 1.0,
+            "unk10": "40 5F FF FC FF FF FF FF FF FF FF FF FF FF FF FF 41 C4 CC CE 42 35 99 94 00 00 00 00 00 00 00 00 00 00",
+            "behaviour": 16,
+            "behaviour_name": "Swinging Light",
+            "unk34": "00 01 31 80"
+        },
+        {
+            "x_pos": 274.9004211425781,
+            "y_pos": 40.69599914550781,
+            "z_pos": 316.5050354003906,
+            "scale": 1.0,
+            "unk10": "00 00 00 8E 00 00 00 01 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00",
+            "behaviour": 12,
+            "behaviour_name": "Bonus Barrel",
+            "unk34": "00 00 31 80"
+        }
+    ]
+}

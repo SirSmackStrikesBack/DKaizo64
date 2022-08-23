@@ -1,0 +1,71 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 356,
+                    "y_pos": 0,
+                    "z_pos": 432
+                },
+                {
+                    "x_pos": 529,
+                    "y_pos": 0,
+                    "z_pos": 619
+                },
+                {
+                    "x_pos": 399,
+                    "y_pos": 0,
+                    "z_pos": 635
+                },
+                {
+                    "x_pos": 166,
+                    "y_pos": 4,
+                    "z_pos": 581
+                },
+                {
+                    "x_pos": 249,
+                    "y_pos": 105,
+                    "z_pos": 582
+                },
+                {
+                    "x_pos": 374,
+                    "y_pos": 0,
+                    "z_pos": 230
+                },
+                {
+                    "x_pos": 547,
+                    "y_pos": 0,
+                    "z_pos": 326
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 28,
+            "enemy_val_name": "Zinger",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 322,
+            "y_pos": 98,
+            "z_pos": 432,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 170,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 60,
+            "unk15": 0
+        }
+    ]
+}

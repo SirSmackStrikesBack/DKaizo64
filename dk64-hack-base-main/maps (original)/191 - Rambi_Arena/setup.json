@@ -1,0 +1,88 @@
+{
+    "model2": [
+        {
+            "x_pos": 518.7254028320312,
+            "y_pos": 88.0,
+            "z_pos": 1297.994873046875,
+            "scale": 1.0,
+            "unk10": "00 00 00 00 FF FE 00 0F",
+            "angle18": 0.0,
+            "angle1C": 309.0,
+            "angle20": 0.0,
+            "unk24": 88.0,
+            "behaviour": 243,
+            "behaviour_name": "Torch",
+            "unk2A": "00 04 00 01 18 00"
+        },
+        {
+            "x_pos": 1320.5228271484375,
+            "y_pos": 87.0,
+            "z_pos": 1036.1385498046875,
+            "scale": 1.0,
+            "unk10": "00 00 04 30 80 3A 7C 10",
+            "angle18": 0.0,
+            "angle1C": 40.0,
+            "angle20": 0.0,
+            "unk24": 87.0,
+            "behaviour": 243,
+            "behaviour_name": "Torch",
+            "unk2A": "00 03 00 01 18 00"
+        },
+        {
+            "x_pos": 255.976318359375,
+            "y_pos": 87.0,
+            "z_pos": 1032.6099853515625,
+            "scale": 1.0,
+            "unk10": "00 11 00 36 FF FF FF FF",
+            "angle18": 0.0,
+            "angle1C": 27.0,
+            "angle20": 0.0,
+            "unk24": 87.0,
+            "behaviour": 243,
+            "behaviour_name": "Torch",
+            "unk2A": "00 02 00 01 18 00"
+        },
+        {
+            "x_pos": 522.7511596679688,
+            "y_pos": 87.0,
+            "z_pos": 236.01776123046875,
+            "scale": 1.0,
+            "unk10": "00 00 03 94 00 00 03 98",
+            "angle18": 0.0,
+            "angle1C": 57.0,
+            "angle20": 0.0,
+            "unk24": 87.0,
+            "behaviour": 243,
+            "behaviour_name": "Torch",
+            "unk2A": "00 00 00 01 18 00"
+        },
+        {
+            "x_pos": 1056.1785888671875,
+            "y_pos": 87.0,
+            "z_pos": 1305.3057861328125,
+            "scale": 1.0,
+            "unk10": "00 00 00 01 D7 00 18 02",
+            "angle18": 0.0,
+            "angle1C": 115.0,
+            "angle20": 0.0,
+            "unk24": 87.0,
+            "behaviour": 243,
+            "behaviour_name": "Torch",
+            "unk2A": "00 01 00 01 18 00"
+        },
+        {
+            "x_pos": 256.486328125,
+            "y_pos": 87.0,
+            "z_pos": 499.6470031738281,
+            "scale": 1.0,
+            "unk10": "0D 38 00 00 0B E0 17 A0",
+            "angle18": 0.0,
+            "angle1C": 101.0,
+            "angle20": 0.0,
+            "unk24": 87.0,
+            "behaviour": 243,
+            "behaviour_name": "Torch",
+            "unk2A": "00 05 00 01 18 00"
+        }
+    ]
+}

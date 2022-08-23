@@ -1,0 +1,111 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 600,
+                    "y_pos": 100,
+                    "z_pos": 658
+                },
+                {
+                    "x_pos": 345,
+                    "y_pos": 97,
+                    "z_pos": 608
+                },
+                {
+                    "x_pos": 455,
+                    "y_pos": 100,
+                    "z_pos": 544
+                },
+                {
+                    "x_pos": 746,
+                    "y_pos": 100,
+                    "z_pos": 543
+                },
+                {
+                    "x_pos": 856,
+                    "y_pos": 96,
+                    "z_pos": 609
+                },
+                {
+                    "x_pos": 729,
+                    "y_pos": 98,
+                    "z_pos": 773
+                },
+                {
+                    "x_pos": 480,
+                    "y_pos": 100,
+                    "z_pos": 766
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 46,
+            "enemy_val_name": "Troff",
+            "unk1": 45,
+            "y_rot": 618,
+            "x_pos": 470,
+            "y_pos": 267,
+            "z_pos": 600,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 130,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 55,
+            "enemy_val_name": "Scoff,Scoff",
+            "unk1": 45,
+            "y_rot": 3632,
+            "x_pos": 739,
+            "y_pos": 255,
+            "z_pos": 602,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 24,
+            "enemy_val_name": "Padlock (T&S)",
+            "unk1": 45,
+            "y_rot": 0,
+            "x_pos": 505,
+            "y_pos": 230,
+            "z_pos": 518,
+            "cutscene_model": 1,
+            "unkB": 0,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

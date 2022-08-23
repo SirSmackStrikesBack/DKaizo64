@@ -1,0 +1,156 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 521,
+                    "y_pos": 0,
+                    "z_pos": 420
+                },
+                {
+                    "x_pos": 801,
+                    "y_pos": 0,
+                    "z_pos": 297
+                },
+                {
+                    "x_pos": 817,
+                    "y_pos": 0,
+                    "z_pos": 378
+                },
+                {
+                    "x_pos": 801,
+                    "y_pos": 0,
+                    "z_pos": 500
+                },
+                {
+                    "x_pos": 718,
+                    "y_pos": 0,
+                    "z_pos": 472
+                },
+                {
+                    "x_pos": 624,
+                    "y_pos": 0,
+                    "z_pos": 544
+                },
+                {
+                    "x_pos": 303,
+                    "y_pos": 0,
+                    "z_pos": 503
+                },
+                {
+                    "x_pos": 225,
+                    "y_pos": 0,
+                    "z_pos": 442
+                },
+                {
+                    "x_pos": 312,
+                    "y_pos": 0,
+                    "z_pos": 323
+                },
+                {
+                    "x_pos": 464,
+                    "y_pos": 0,
+                    "z_pos": 436
+                },
+                {
+                    "x_pos": 566,
+                    "y_pos": 0,
+                    "z_pos": 425
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1029,
+                    "y_pos": 0,
+                    "z_pos": 595
+                },
+                {
+                    "x_pos": 955,
+                    "y_pos": 0,
+                    "z_pos": 476
+                },
+                {
+                    "x_pos": 868,
+                    "y_pos": 0,
+                    "z_pos": 629
+                },
+                {
+                    "x_pos": 987,
+                    "y_pos": 0,
+                    "z_pos": 743
+                },
+                {
+                    "x_pos": 1135,
+                    "y_pos": 0,
+                    "z_pos": 710
+                },
+                {
+                    "x_pos": 1190,
+                    "y_pos": 0,
+                    "z_pos": 560
+                },
+                {
+                    "x_pos": 1041,
+                    "y_pos": 0,
+                    "z_pos": 448
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 5,
+            "enemy_val_name": "Zinger",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 1082,
+            "y_pos": 54,
+            "z_pos": 575,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 5,
+            "enemy_val_name": "Zinger",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 937,
+            "y_pos": 58,
+            "z_pos": 601,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

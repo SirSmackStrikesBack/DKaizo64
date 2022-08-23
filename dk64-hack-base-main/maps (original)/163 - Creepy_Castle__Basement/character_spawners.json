@@ -1,0 +1,176 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1382,
+                    "y_pos": 170,
+                    "z_pos": 1997
+                },
+                {
+                    "x_pos": 1538,
+                    "y_pos": 170,
+                    "z_pos": 1894
+                },
+                {
+                    "x_pos": 1548,
+                    "y_pos": 170,
+                    "z_pos": 2098
+                },
+                {
+                    "x_pos": 1231,
+                    "y_pos": 170,
+                    "z_pos": 2100
+                },
+                {
+                    "x_pos": 1216,
+                    "y_pos": 170,
+                    "z_pos": 1894
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 539,
+                    "y_pos": 90,
+                    "z_pos": 3253
+                },
+                {
+                    "x_pos": 616,
+                    "y_pos": 90,
+                    "z_pos": 3413
+                },
+                {
+                    "x_pos": 453,
+                    "y_pos": 90,
+                    "z_pos": 3394
+                },
+                {
+                    "x_pos": 452,
+                    "y_pos": 90,
+                    "z_pos": 3093
+                },
+                {
+                    "x_pos": 627,
+                    "y_pos": 90,
+                    "z_pos": 3119
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 539,
+                    "y_pos": 115,
+                    "z_pos": 1477
+                },
+                {
+                    "x_pos": 431,
+                    "y_pos": 115,
+                    "z_pos": 1485
+                },
+                {
+                    "x_pos": 506,
+                    "y_pos": 115,
+                    "z_pos": 1344
+                },
+                {
+                    "x_pos": 648,
+                    "y_pos": 115,
+                    "z_pos": 1432
+                },
+                {
+                    "x_pos": 570,
+                    "y_pos": 115,
+                    "z_pos": 1611
+                },
+                {
+                    "x_pos": 461,
+                    "y_pos": 115,
+                    "z_pos": 1573
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 3,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 84,
+            "enemy_val_name": "Krossbones",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 1446,
+            "y_pos": 170,
+            "z_pos": 1997,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 80,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 20,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 103,
+            "enemy_val_name": "Kosha",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 520,
+            "y_pos": 90,
+            "z_pos": 3285,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 103,
+            "enemy_val_name": "Kosha",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 501,
+            "y_pos": 115,
+            "z_pos": 1515,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 3,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

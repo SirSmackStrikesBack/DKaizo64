@@ -1,0 +1,138 @@
+[
+    {
+        "x_pos": 931,
+        "y_pos": 280,
+        "z_pos": 721,
+        "angle": 30330,
+        "has_autowalk": 0,
+        "size": 0
+    },
+    {
+        "x_pos": 1941,
+        "y_pos": 574,
+        "z_pos": 2925,
+        "angle": 11432,
+        "has_autowalk": 1,
+        "size": 0
+    },
+    {
+        "x_pos": 1631,
+        "y_pos": 907,
+        "z_pos": 2355,
+        "angle": 31480,
+        "has_autowalk": 0,
+        "size": 0
+    },
+    {
+        "x_pos": 1695,
+        "y_pos": 280,
+        "z_pos": 3953,
+        "angle": -32255,
+        "has_autowalk": 1,
+        "size": 0
+    },
+    {
+        "x_pos": 2049,
+        "y_pos": 520,
+        "z_pos": 2204,
+        "angle": -27372,
+        "has_autowalk": 1,
+        "size": 0
+    },
+    {
+        "x_pos": 470,
+        "y_pos": 370,
+        "z_pos": 1884,
+        "angle": 14140,
+        "has_autowalk": 1,
+        "size": 0
+    },
+    {
+        "x_pos": 2162,
+        "y_pos": 680,
+        "z_pos": 2547,
+        "angle": -29685,
+        "has_autowalk": 1,
+        "size": 0
+    },
+    {
+        "x_pos": 2460,
+        "y_pos": 596,
+        "z_pos": 1148,
+        "angle": -6813,
+        "has_autowalk": 0,
+        "size": 0
+    },
+    {
+        "x_pos": 2349,
+        "y_pos": 280,
+        "z_pos": 1336,
+        "angle": 0,
+        "has_autowalk": 0,
+        "size": 0
+    },
+    {
+        "x_pos": 2495,
+        "y_pos": 280,
+        "z_pos": 756,
+        "angle": -32768,
+        "has_autowalk": 1,
+        "size": 1
+    },
+    {
+        "x_pos": 711,
+        "y_pos": 538,
+        "z_pos": 2399,
+        "angle": 26599,
+        "has_autowalk": 1,
+        "size": 0
+    },
+    {
+        "x_pos": 2220,
+        "y_pos": 339,
+        "z_pos": 3233,
+        "angle": -27630,
+        "has_autowalk": 0,
+        "size": 1
+    },
+    {
+        "x_pos": 904,
+        "y_pos": 280,
+        "z_pos": 3815,
+        "angle": -29428,
+        "has_autowalk": 1,
+        "size": 1
+    },
+    {
+        "x_pos": 697,
+        "y_pos": 280,
+        "z_pos": 3590,
+        "angle": 14004,
+        "has_autowalk": 0,
+        "size": 1
+    },
+    {
+        "x_pos": 1077,
+        "y_pos": 288,
+        "z_pos": 1950,
+        "angle": -22489,
+        "has_autowalk": 0,
+        "size": 0
+    },
+    {
+        "x_pos": 904,
+        "y_pos": 280,
+        "z_pos": 1048,
+        "angle": -32768,
+        "has_autowalk": 1,
+        "size": 0
+    },
+    {
+        "x_pos": 1848,
+        "y_pos": 280,
+        "z_pos": 1418,
+        "angle": 14402,
+        "has_autowalk": 0,
+        "size": 0
+    }
+]

@@ -1,0 +1,164 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 558,
+                    "y_pos": 16,
+                    "z_pos": 607
+                },
+                {
+                    "x_pos": 402,
+                    "y_pos": 15,
+                    "z_pos": 290
+                },
+                {
+                    "x_pos": 692,
+                    "y_pos": 36,
+                    "z_pos": 277
+                },
+                {
+                    "x_pos": 857,
+                    "y_pos": 37,
+                    "z_pos": 453
+                },
+                {
+                    "x_pos": 834,
+                    "y_pos": 140,
+                    "z_pos": 795
+                },
+                {
+                    "x_pos": 492,
+                    "y_pos": 40,
+                    "z_pos": 937
+                },
+                {
+                    "x_pos": 297,
+                    "y_pos": 27,
+                    "z_pos": 791
+                },
+                {
+                    "x_pos": 260,
+                    "y_pos": 102,
+                    "z_pos": 529
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 595,
+                    "y_pos": 103,
+                    "z_pos": 585,
+                    "unk6": "04 14 14 00"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 110,
+            "enemy_val_name": "Bug",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 566,
+            "y_pos": 361,
+            "z_pos": 446,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 80,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 110,
+            "enemy_val_name": "Bug",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 658,
+            "y_pos": 349,
+            "z_pos": 487,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 75,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 110,
+            "enemy_val_name": "Bug",
+            "unk1": 124,
+            "y_rot": 416,
+            "x_pos": 481,
+            "y_pos": 318,
+            "z_pos": 690,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 100,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 110,
+            "enemy_val_name": "Bug",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 719,
+            "y_pos": 214,
+            "z_pos": 658,
+            "cutscene_model": 0,
+            "unkB": 40,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 80,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 110,
+            "enemy_val_name": "Bug",
+            "unk1": 124,
+            "y_rot": 0,
+            "x_pos": 406,
+            "y_pos": 163,
+            "z_pos": 495,
+            "cutscene_model": 26,
+            "unkB": 40,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 88,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

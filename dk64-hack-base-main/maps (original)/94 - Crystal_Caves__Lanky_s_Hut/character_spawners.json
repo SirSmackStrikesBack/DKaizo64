@@ -1,0 +1,116 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 209,
+                    "y_pos": 0,
+                    "z_pos": 421
+                },
+                {
+                    "x_pos": 86,
+                    "y_pos": 0,
+                    "z_pos": 476
+                },
+                {
+                    "x_pos": 92,
+                    "y_pos": 0,
+                    "z_pos": 347
+                },
+                {
+                    "x_pos": 319,
+                    "y_pos": 0,
+                    "z_pos": 348
+                },
+                {
+                    "x_pos": 333,
+                    "y_pos": 0,
+                    "z_pos": 495
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 445,
+                    "y_pos": 0,
+                    "z_pos": 371
+                },
+                {
+                    "x_pos": 371,
+                    "y_pos": 0,
+                    "z_pos": 484
+                },
+                {
+                    "x_pos": 373,
+                    "y_pos": 0,
+                    "z_pos": 250
+                },
+                {
+                    "x_pos": 520,
+                    "y_pos": 0,
+                    "z_pos": 258
+                },
+                {
+                    "x_pos": 520,
+                    "y_pos": 0,
+                    "z_pos": 492
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 103,
+            "enemy_val_name": "Kosha",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 237,
+            "y_pos": 0,
+            "z_pos": 411,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 30,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 103,
+            "enemy_val_name": "Kosha",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 450,
+            "y_pos": 0,
+            "z_pos": 376,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 30,
+            "unk15": 0
+        }
+    ]
+}

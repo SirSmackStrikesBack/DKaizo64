@@ -1,0 +1,350 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 368,
+                    "y_pos": 5,
+                    "z_pos": 2304
+                },
+                {
+                    "x_pos": 335,
+                    "y_pos": 5,
+                    "z_pos": 2251
+                },
+                {
+                    "x_pos": 402,
+                    "y_pos": 4,
+                    "z_pos": 2253
+                },
+                {
+                    "x_pos": 408,
+                    "y_pos": 5,
+                    "z_pos": 2352
+                },
+                {
+                    "x_pos": 328,
+                    "y_pos": 7,
+                    "z_pos": 2357
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 392,
+                    "y_pos": 5,
+                    "z_pos": 2289,
+                    "unk6": "04 0D 14 00"
+                },
+                {
+                    "x_pos": 342,
+                    "y_pos": 5,
+                    "z_pos": 2288,
+                    "unk6": "04 0D 14 00"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 522,
+                    "y_pos": 5,
+                    "z_pos": 2731
+                },
+                {
+                    "x_pos": 506,
+                    "y_pos": 5,
+                    "z_pos": 2733
+                },
+                {
+                    "x_pos": 522,
+                    "y_pos": 5,
+                    "z_pos": 2712
+                },
+                {
+                    "x_pos": 538,
+                    "y_pos": 5,
+                    "z_pos": 2733
+                },
+                {
+                    "x_pos": 524,
+                    "y_pos": 5,
+                    "z_pos": 2751
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1060,
+                    "y_pos": 5,
+                    "z_pos": 1986
+                },
+                {
+                    "x_pos": 1078,
+                    "y_pos": 5,
+                    "z_pos": 1992
+                },
+                {
+                    "x_pos": 1054,
+                    "y_pos": 5,
+                    "z_pos": 2000
+                },
+                {
+                    "x_pos": 1043,
+                    "y_pos": 5,
+                    "z_pos": 1983
+                },
+                {
+                    "x_pos": 1061,
+                    "y_pos": 5,
+                    "z_pos": 1973
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 3,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 2711,
+                    "y_pos": 5,
+                    "z_pos": 2348
+                },
+                {
+                    "x_pos": 2701,
+                    "y_pos": 5,
+                    "z_pos": 2337
+                },
+                {
+                    "x_pos": 2716,
+                    "y_pos": 5,
+                    "z_pos": 2338
+                },
+                {
+                    "x_pos": 2721,
+                    "y_pos": 5,
+                    "z_pos": 2359
+                },
+                {
+                    "x_pos": 2701,
+                    "y_pos": 5,
+                    "z_pos": 2357
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 4,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 1923,
+                    "y_pos": 5,
+                    "z_pos": 622
+                },
+                {
+                    "x_pos": 1937,
+                    "y_pos": 5,
+                    "z_pos": 636
+                },
+                {
+                    "x_pos": 1910,
+                    "y_pos": 5,
+                    "z_pos": 629
+                },
+                {
+                    "x_pos": 1915,
+                    "y_pos": 5,
+                    "z_pos": 608
+                },
+                {
+                    "x_pos": 1932,
+                    "y_pos": 5,
+                    "z_pos": 615
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 5,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 3569,
+                    "y_pos": 5,
+                    "z_pos": 1891
+                },
+                {
+                    "x_pos": 3578,
+                    "y_pos": 5,
+                    "z_pos": 1901
+                },
+                {
+                    "x_pos": 3561,
+                    "y_pos": 5,
+                    "z_pos": 1908
+                },
+                {
+                    "x_pos": 3561,
+                    "y_pos": 5,
+                    "z_pos": 1874
+                },
+                {
+                    "x_pos": 3576,
+                    "y_pos": 5,
+                    "z_pos": 1875
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 6,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 78,
+            "enemy_val_name": "Toy Car",
+            "unk1": 79,
+            "y_rot": 0,
+            "x_pos": 368,
+            "y_pos": 5,
+            "z_pos": 2314,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 1,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 79,
+            "enemy_val_name": "Minecart (TNT)",
+            "unk1": 79,
+            "y_rot": 0,
+            "x_pos": 526,
+            "y_pos": 5,
+            "z_pos": 2736,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 40,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 5,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 79,
+            "enemy_val_name": "Minecart (TNT)",
+            "unk1": 79,
+            "y_rot": 0,
+            "x_pos": 1058,
+            "y_pos": 5,
+            "z_pos": 1986,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 3,
+            "scale": 40,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 5,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 79,
+            "enemy_val_name": "Minecart (TNT)",
+            "unk1": 79,
+            "y_rot": 0,
+            "x_pos": 2711,
+            "y_pos": 5,
+            "z_pos": 2347,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 4,
+            "scale": 40,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 4,
+            "initial_respawn_timer": 5,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 79,
+            "enemy_val_name": "Minecart (TNT)",
+            "unk1": 79,
+            "y_rot": 0,
+            "x_pos": 1919,
+            "y_pos": 5,
+            "z_pos": 615,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 5,
+            "scale": 40,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 5,
+            "initial_respawn_timer": 5,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 79,
+            "enemy_val_name": "Minecart (TNT)",
+            "unk1": 79,
+            "y_rot": 0,
+            "x_pos": 3570,
+            "y_pos": 5,
+            "z_pos": 1884,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 6,
+            "scale": 40,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 6,
+            "initial_respawn_timer": 5,
+            "unk15": 0
+        }
+    ]
+}

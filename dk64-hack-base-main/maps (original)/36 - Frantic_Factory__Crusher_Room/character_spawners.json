@@ -1,0 +1,151 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 299,
+                    "y_pos": 0,
+                    "z_pos": 459
+                },
+                {
+                    "x_pos": 281,
+                    "y_pos": 0,
+                    "z_pos": 510
+                },
+                {
+                    "x_pos": 329,
+                    "y_pos": 0,
+                    "z_pos": 510
+                },
+                {
+                    "x_pos": 329,
+                    "y_pos": 0,
+                    "z_pos": 411
+                },
+                {
+                    "x_pos": 269,
+                    "y_pos": 0,
+                    "z_pos": 409
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 119,
+                    "y_pos": 0,
+                    "z_pos": 360
+                },
+                {
+                    "x_pos": 67,
+                    "y_pos": 0,
+                    "z_pos": 382
+                },
+                {
+                    "x_pos": 67,
+                    "y_pos": 0,
+                    "z_pos": 335
+                },
+                {
+                    "x_pos": 171,
+                    "y_pos": 0,
+                    "z_pos": 335
+                },
+                {
+                    "x_pos": 171,
+                    "y_pos": 0,
+                    "z_pos": 386
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 119,
+                    "y_pos": 0,
+                    "z_pos": 198
+                },
+                {
+                    "x_pos": 169,
+                    "y_pos": 0,
+                    "z_pos": 173
+                },
+                {
+                    "x_pos": 165,
+                    "y_pos": 0,
+                    "z_pos": 217
+                },
+                {
+                    "x_pos": 69,
+                    "y_pos": 0,
+                    "z_pos": 223
+                },
+                {
+                    "x_pos": 71,
+                    "y_pos": 0,
+                    "z_pos": 178
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 3,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 42,
+            "enemy_val_name": "Fireball Spawner",
+            "unk1": 25,
+            "y_rot": 2052,
+            "x_pos": 302,
+            "y_pos": 20,
+            "z_pos": 510,
+            "cutscene_model": 2,
+            "unkB": 34,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 42,
+            "enemy_val_name": "Fireball Spawner",
+            "unk1": 25,
+            "y_rot": 1028,
+            "x_pos": 69,
+            "y_pos": 20,
+            "z_pos": 362,
+            "cutscene_model": 2,
+            "unkB": 34,
+            "max_idle_speed": 30,
+            "max_aggro_speed": 60,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

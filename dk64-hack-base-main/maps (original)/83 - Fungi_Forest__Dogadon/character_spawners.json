@@ -1,0 +1,265 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 582,
+                    "y_pos": 205,
+                    "z_pos": 658
+                },
+                {
+                    "x_pos": -62,
+                    "y_pos": 142,
+                    "z_pos": 1030
+                },
+                {
+                    "x_pos": 1227,
+                    "y_pos": 16,
+                    "z_pos": 1326
+                },
+                {
+                    "x_pos": 1176,
+                    "y_pos": 142,
+                    "z_pos": -10
+                },
+                {
+                    "x_pos": 11,
+                    "y_pos": 142,
+                    "z_pos": 75
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 1003,
+                    "y_pos": 275,
+                    "z_pos": 980,
+                    "unk6": "04 14 14 FF"
+                },
+                {
+                    "x_pos": 245,
+                    "y_pos": 275,
+                    "z_pos": 958,
+                    "unk6": "04 14 14 FF"
+                },
+                {
+                    "x_pos": 186,
+                    "y_pos": 275,
+                    "z_pos": 222,
+                    "unk6": "04 14 14 FF"
+                },
+                {
+                    "x_pos": 1004,
+                    "y_pos": 275,
+                    "z_pos": 192,
+                    "unk6": "04 14 14 FF"
+                },
+                {
+                    "x_pos": 772,
+                    "y_pos": 205,
+                    "z_pos": 767,
+                    "unk6": "04 14 14 7D"
+                },
+                {
+                    "x_pos": 429,
+                    "y_pos": 205,
+                    "z_pos": 776,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 426,
+                    "y_pos": 205,
+                    "z_pos": 424,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 774,
+                    "y_pos": 205,
+                    "z_pos": 438,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 606,
+                    "y_pos": 205,
+                    "z_pos": 566,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 590,
+                    "y_pos": 205,
+                    "z_pos": 481,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 39,
+                    "y_pos": -800,
+                    "z_pos": 899,
+                    "unk6": "04 14 14 3E"
+                },
+                {
+                    "x_pos": 385,
+                    "y_pos": -435,
+                    "z_pos": 978,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 429,
+                    "y_pos": 245,
+                    "z_pos": 774,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 58,
+                    "y_pos": -460,
+                    "z_pos": 732,
+                    "unk6": "04 14 14 50"
+                },
+                {
+                    "x_pos": 57,
+                    "y_pos": 450,
+                    "z_pos": 1108,
+                    "unk6": "04 14 14 00"
+                },
+                {
+                    "x_pos": 57,
+                    "y_pos": -100,
+                    "z_pos": 1108,
+                    "unk6": "04 14 14 FF"
+                },
+                {
+                    "x_pos": 192,
+                    "y_pos": 180,
+                    "z_pos": 980,
+                    "unk6": "04 14 14 FF"
+                },
+                {
+                    "x_pos": 530,
+                    "y_pos": 205,
+                    "z_pos": 671,
+                    "unk6": "04 14 14 FF"
+                },
+                {
+                    "x_pos": 245,
+                    "y_pos": -100,
+                    "z_pos": 958,
+                    "unk6": "04 14 14 37"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 590,
+                    "y_pos": 1881,
+                    "z_pos": 594
+                },
+                {
+                    "x_pos": 813,
+                    "y_pos": 205,
+                    "z_pos": 381
+                },
+                {
+                    "x_pos": 364,
+                    "y_pos": 205,
+                    "z_pos": 372
+                },
+                {
+                    "x_pos": 386,
+                    "y_pos": 205,
+                    "z_pos": 812
+                },
+                {
+                    "x_pos": 817,
+                    "y_pos": 205,
+                    "z_pos": 817
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 57,
+            "enemy_val_name": "Dogadon",
+            "unk1": 0,
+            "y_rot": 2051,
+            "x_pos": 588,
+            "y_pos": 205,
+            "z_pos": 657,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 255,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 200,
+            "aggro": 0,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 6,
+            "extra_data": [
+                0,
+                256,
+                512,
+                768,
+                1024,
+                1280,
+                1536,
+                1792,
+                2048
+            ]
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 2171,
+            "x_pos": 595,
+            "y_pos": 205,
+            "z_pos": 482,
+            "cutscene_model": 9,
+            "cutscene_model_name": "Chunky",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 6
+        },
+        {
+            "enemy_val": 80,
+            "enemy_val_name": "Cutscene Object",
+            "unk1": 0,
+            "y_rot": 1538,
+            "x_pos": 430,
+            "y_pos": 205,
+            "z_pos": 774,
+            "cutscene_model": 12,
+            "cutscene_model_name": "Dogadon",
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 200,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 6
+        }
+    ]
+}

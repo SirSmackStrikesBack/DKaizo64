@@ -1,0 +1,141 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 296,
+                    "y_pos": 0,
+                    "z_pos": 287
+                },
+                {
+                    "x_pos": 319,
+                    "y_pos": 96,
+                    "z_pos": 499
+                },
+                {
+                    "x_pos": 334,
+                    "y_pos": 0,
+                    "z_pos": 446
+                },
+                {
+                    "x_pos": 471,
+                    "y_pos": 0,
+                    "z_pos": 447
+                },
+                {
+                    "x_pos": 442,
+                    "y_pos": 0,
+                    "z_pos": 75
+                },
+                {
+                    "x_pos": 122,
+                    "y_pos": 0,
+                    "z_pos": 80
+                },
+                {
+                    "x_pos": 146,
+                    "y_pos": 0,
+                    "z_pos": 449
+                },
+                {
+                    "x_pos": 253,
+                    "y_pos": 0,
+                    "z_pos": 449
+                },
+                {
+                    "x_pos": 257,
+                    "y_pos": 96,
+                    "z_pos": 500
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 212,
+                    "y_pos": 112,
+                    "z_pos": 336,
+                    "unk6": "03 14 14 2B"
+                },
+                {
+                    "x_pos": 364,
+                    "y_pos": 112,
+                    "z_pos": 145,
+                    "unk6": "03 14 14 60"
+                },
+                {
+                    "x_pos": 207,
+                    "y_pos": 112,
+                    "z_pos": 178,
+                    "unk6": "03 14 14 26"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 99,
+            "enemy_val_name": "Bat",
+            "unk1": 63,
+            "y_rot": 2054,
+            "x_pos": 313,
+            "y_pos": 96,
+            "z_pos": 479,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 140,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 99,
+            "enemy_val_name": "Bat",
+            "unk1": 63,
+            "y_rot": 2055,
+            "x_pos": 290,
+            "y_pos": 96,
+            "z_pos": 483,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 145,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 99,
+            "enemy_val_name": "Bat",
+            "unk1": 63,
+            "y_rot": 2055,
+            "x_pos": 269,
+            "y_pos": 96,
+            "z_pos": 482,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 150,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

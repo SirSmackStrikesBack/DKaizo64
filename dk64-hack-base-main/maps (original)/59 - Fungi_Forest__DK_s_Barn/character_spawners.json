@@ -1,0 +1,124 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 323,
+                    "y_pos": 0,
+                    "z_pos": 365
+                },
+                {
+                    "x_pos": 398,
+                    "y_pos": 0,
+                    "z_pos": 218
+                },
+                {
+                    "x_pos": 398,
+                    "y_pos": 0,
+                    "z_pos": 475
+                },
+                {
+                    "x_pos": 249,
+                    "y_pos": 0,
+                    "z_pos": 515
+                },
+                {
+                    "x_pos": 249,
+                    "y_pos": 0,
+                    "z_pos": 215
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 324,
+                    "y_pos": -7,
+                    "z_pos": 570,
+                    "unk6": "00 1E 3A 80"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        },
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 318,
+                    "y_pos": 0,
+                    "z_pos": 396
+                },
+                {
+                    "x_pos": 529,
+                    "y_pos": 141,
+                    "z_pos": 602
+                },
+                {
+                    "x_pos": 527,
+                    "y_pos": 140,
+                    "z_pos": 170
+                },
+                {
+                    "x_pos": 107,
+                    "y_pos": 140,
+                    "z_pos": 181
+                },
+                {
+                    "x_pos": 116,
+                    "y_pos": 140,
+                    "z_pos": 623
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 2,
+                    "unk_boolean": 0
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 103,
+            "enemy_val_name": "Kosha",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 282,
+            "y_pos": 0,
+            "z_pos": 498,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 2,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 68,
+            "enemy_val_name": "Banana Fairy",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 497,
+            "y_pos": 162,
+            "z_pos": 502,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 2,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}

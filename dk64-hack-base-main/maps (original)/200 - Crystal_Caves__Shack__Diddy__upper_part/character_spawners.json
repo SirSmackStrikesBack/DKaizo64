@@ -1,0 +1,121 @@
+{
+    "fences": [
+        {
+            "fence_boundary_coordinates": [
+                {
+                    "x_pos": 299,
+                    "y_pos": -38,
+                    "z_pos": 362
+                },
+                {
+                    "x_pos": 52,
+                    "y_pos": 0,
+                    "z_pos": 603
+                },
+                {
+                    "x_pos": 547,
+                    "y_pos": 0,
+                    "z_pos": 608
+                },
+                {
+                    "x_pos": 542,
+                    "y_pos": 0,
+                    "z_pos": 122
+                },
+                {
+                    "x_pos": 59,
+                    "y_pos": 0,
+                    "z_pos": 116
+                }
+            ],
+            "points_0xA": [
+                {
+                    "x_pos": 299,
+                    "y_pos": 0,
+                    "z_pos": 523,
+                    "unk6": "00 29 14 7D"
+                },
+                {
+                    "x_pos": 131,
+                    "y_pos": 0,
+                    "z_pos": 228,
+                    "unk6": "00 29 14 00"
+                },
+                {
+                    "x_pos": 478,
+                    "y_pos": 0,
+                    "z_pos": 227,
+                    "unk6": "00 29 14 00"
+                }
+            ],
+            "fence_footer_data": [
+                {
+                    "fence_id": 1,
+                    "unk_boolean": 1
+                }
+            ]
+        }
+    ],
+    "character_spawners": [
+        {
+            "enemy_val": 103,
+            "enemy_val_name": "Kosha",
+            "unk1": 124,
+            "y_rot": 516,
+            "x_pos": 127,
+            "y_pos": 0,
+            "z_pos": 458,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 1,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 103,
+            "enemy_val_name": "Kosha",
+            "unk1": 0,
+            "y_rot": 1888,
+            "x_pos": 440,
+            "y_pos": 0,
+            "z_pos": 507,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 60,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 1,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 2,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        },
+        {
+            "enemy_val": 68,
+            "enemy_val_name": "Banana Fairy",
+            "unk1": 0,
+            "y_rot": 0,
+            "x_pos": 140,
+            "y_pos": 100,
+            "z_pos": 505,
+            "cutscene_model": 0,
+            "unkB": 0,
+            "max_idle_speed": 35,
+            "max_aggro_speed": 100,
+            "fence_id": 1,
+            "scale": 50,
+            "aggro": 6,
+            "initial_spawn_state": 0,
+            "spawn_trigger": 3,
+            "initial_respawn_timer": 0,
+            "unk15": 0
+        }
+    ]
+}
