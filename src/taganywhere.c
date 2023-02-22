@@ -208,7 +208,6 @@ static const u16 speedrun_mode_permanent_flags[] = {
 	93, // Aztec: Lanky's help me cutscene
 	94, // Aztec: Tiny's help me cutscene
 	140, // Factory: Chunky's help me cutscene
-	//375, // Cranky's Lab Simian Slam Tutorial
 	384, // Cranky's Lab Simian Slam Tutorial
 	27, // Japes: Cutscene at the start played
 	95, // Aztec: FT Cutscene
@@ -235,7 +234,7 @@ static const u16 speedrun_mode_permanent_flags[] = {
 	382, // B. Locker FTT
 	383, // Training Grounds: Barrels Spawned
 	386, // Training Grounds: Dive Barrel Completed
-	387, // Training Grounds: Vine Barrel Completed
+	387, // Vine Barrel
 	388, // Training Grounds: Orange Barrel Completed
 	389, // Training Grounds: Barrel Barrel Completed
 	390, // Isles: Escape Cutscene

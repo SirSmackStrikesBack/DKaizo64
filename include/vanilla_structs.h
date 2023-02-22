@@ -48,7 +48,7 @@ typedef struct actorData {
     /* 0x174 */ void* paad;
     /* 0x178 */ void* paad2;
     /* 0x17C */ void* paad3;
-    /* 0x180 */ void* tied_character_spawner
+    /* 0x180 */ void* tied_character_spawner;
 } actorData;
 
 typedef struct cameraData {
@@ -191,7 +191,8 @@ typedef struct KongBase {
 	/* 0x002 */ s8 weapon_bitfield;
 	/* 0x003 */ s8 ammo_belt;
 	/* 0x004 */ s8 instrument_bitfield;
-	/* 0x005 */ s8 unk_05[0x2];
+	/* 0x005 */ s8 unk_05;
+	/* 0x006 */ s8 unk_06;
 	/* 0x007 */ s8 coins;
 	/* 0x008 */ s16 instrument_energy;
 	/* 0x00A */ s16 cb_count[0xE];
@@ -281,3 +282,45 @@ typedef enum flag_types {
 	/* 0x001 */ TYPE_GLOBAL,
 	/* 0x002 */ TYPE_TEMPORARY
 } flag_types;
+
+typedef enum data_indexes {
+    Music_MIDI,
+    Map_Geometry,
+    Map_Walls,
+    Map_Floors,
+    ModelTwo_Geometry,
+    Actor_Geometry,
+    Unk06,
+    Textures_Uncompressed,
+    Cutscenes,
+    Map_Setups,
+    Map_Object_Scripts,
+    Animations,
+    Text,
+    Unk0D,
+    Textures,
+    Map_Paths,
+    Map_Character_Spawners,
+    Unk11,
+    Map_Loading_Zones,
+    Unk13,
+    Unk14,
+    Map_Autowalks,
+    Unk16,
+    Map_Exits,
+    Map_Race_Checkpoints,
+    Textures_2,
+    Uncompressed_File_Sizes,
+    Unk1B,
+    Unk1C,
+    Unk1D,
+    Unk1E,
+    Unk1F,
+    Unk20,
+} data_indexes;
+
+typedef struct purchase_struct {
+    /* 0x000 */ short purchase_type; // 0 = Moves, 1 = Simian Slam, 2 = Weapon Bitfield, 3 = Ammo Belt, 4 = Instrument Bitfield, -1 = No offer
+    /* 0x002 */ short purchase_value;
+    /* 0x004 */ unsigned short price;
+} purchase_struct;

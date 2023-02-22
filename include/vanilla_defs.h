@@ -35,6 +35,15 @@ extern void textOverlayCode(void);
 extern s32 initHelmTimer();
 extern s32 takeDamage(int value);
 extern s32 Save();
+extern int findTiedParentMap(int* place_to_write_map, int* place_to_write_exit);
+extern int getWorld(int map, int lobby_is_isles);
+extern s32 Pause();
+extern void playActorAnimation(void* actor, int animation);
+extern void* getMapData(data_indexes data_idx, int _index, char compressbyte0, char compressbyte1);
+extern void* DiddySwimFix(int ptr, int file, int c0, int c1);
+extern void unkMultiplayerWarpFunction(void* actor, int player_index);
+extern void renderScreenTransition(int transition_type);
+extern void fastWarp(void* actor, int player_index);
 
 // Vanilla data
 extern f32 TransitionSpeed;
@@ -123,3 +132,6 @@ extern f32 LZFadeoutProgress;
 extern HUDDisplay* HUD;
 extern s8 HelmTimerEnabled; 
 extern s32 HelmCurrentTime;
+extern purchase_struct CrankyMoves[5][7];
+extern purchase_struct CandyMoves[5][7];
+extern purchase_struct FunkyMoves[5][7];

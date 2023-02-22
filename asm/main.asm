@@ -43,6 +43,8 @@ displacedVanillaBootCode:
 	LUI t6, 0x000D
 
 mainASMFunction:
+	JAL	earlyFrameFunc
+	NOP
 	JAL	0x805FC2B0
 	NOP
 	JAL cFuncLoop

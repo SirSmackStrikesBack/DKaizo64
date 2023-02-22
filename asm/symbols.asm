@@ -242,6 +242,13 @@
 .definelabel initHelmTimer, 0x80712574
 .definelabel takeDamage, 0x806EEAF8
 .definelabel Save, 0x8060DEC8
+.definelabel findTiedParentMap, 0x805FF800
+.definelabel getWorld, 0x805FF030
+.definelabel Pause, 0x806E6234
+.definelabel playActorAnimation, 0x80614EBC
+.definelabel getMapData, 0x8066B0F8
+.definelabel unkMultiplayerWarpFunction, 0x806291B4
+.definelabel renderScreenTransition, 0x806291B4
 
 ; Vanilla data
 .definelabel TransitionSpeed, 0x807FD88C
@@ -330,5 +337,8 @@
 .defineLabel HUD, 0x80754280 ; u32 ptr
 .defineLabel HelmTimerEnabled, 0x80755350 ; u8
 .definelabel HelmCurrentTime, 0x80755348 ; u32
+.definelabel CrankyMoves, 0x80033260
+.definelabel CandyMoves, 0x80033334
+.definelabel FunkyMoves, 0x80033408
 
 ; Hack data

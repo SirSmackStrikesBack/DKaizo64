@@ -145,7 +145,63 @@ map_replacements = [
 	 	"name": "Aztec: Llama Temple",
 	 	"map_index": 20,
 	 	"map_folder": "maps/20 - Angry_Aztec__Llama_Temple/"
-	 }
+	 },
+	{
+	 	"name": "Factory",
+	 	"map_index": 26,
+	 	"map_folder": "maps/26 - Frantic_Factory/"
+	},
+	{
+	 	"name": "Busy Barrel Barrage (Easy)",
+	 	"map_index": 78,
+	 	"map_folder": "maps/78 - Busy_Barrel_Barrage___easy/"
+	},
+	{
+	 	"name": "Mad Maze Maul (Insane)",
+	 	"map_index": 124,
+	 	"map_folder": "maps/124 - Mad_Maze_Maul___insane/"
+	},
+	{
+	 	"name": "Minecart Meyhem (Castle)",
+	 	"map_index": 130,
+	 	"map_folder": "maps/130 - Minecart_Mayhem___hard/"
+	},
+	{
+	 	"name": "DK 5DT",
+	 	"map_index": 19,
+	 	"map_folder": "maps/19 - Angry_Aztec__Five_Door_Temple__DK/"
+	},
+	{
+	 	"name": "Tiny Temple",
+	 	"map_index": 16,
+	 	"map_folder": "maps/16 - Angry_Aztec__Tiny_s_Temple/"
+	},
+	{
+	 	"name": "DK Isles",
+	 	"map_index": 34,
+	 	"map_folder": "maps/34 - DK_Isles_Overworld/"
+	},
+	{
+	 	"name": "Troff n Scoff",
+	 	"map_index": 42,
+	 	"map_folder": "maps/42 - Troff__n__Scoff/"
+	},
+	{
+	 	"name": "Crusher Room",
+	 	"map_index": 36,
+	 	"map_folder": "maps/36 - Frantic_Factory__Crusher_Room/"
+	},
+	{
+	 	"name": "Chunky's Cave",
+	 	"map_index": 33,
+	 	"map_folder": "maps/33 - Jungle_Japes__Chunky_s_Cave/"
+	},
+	{
+	 	"name": "Snide's Room",
+	 	"map_index": 195,
+	 	"map_folder": "maps/195 - DK_Isles__Snide_s_Room/"
+	},
+
 ]
 
 # Test all map replacements at once
